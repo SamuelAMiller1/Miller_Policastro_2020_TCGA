@@ -1,0 +1,572 @@
+sample	chr	start	end	gene	reference	alt	altGene	effect	aminoAcid	rnaVaf	dnaVaf
+TCGA-CM-4750-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CA-6718-01A	chr5	112838600	112838600	APC	C	T		synonymous_variant	p.A1002A		0.5238	TCGA-CA-6718-01A	chr5	112838934	112838934	APC	C	T		stop_gained	p.R1114*		0.2326	TCGA-CA-6718-01A	chr5	112840254	112840255	APC	-	A		frameshift_variant	p.T1556Nfs*3		0.3036
+TCGA-AA-3715-01A	chr5	112838914	112838914	APC	C	T		missense_variant	p.A1107V		0.1584
+TCGA-CM-6162-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-6653-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-DM-A1D7-01A	chr5	112838220	112838220	APC	C	T		stop_gained	p.R876*		0.3429	TCGA-DM-A1D7-01A	chr5	112840331	112840332	APC	-	A		frameshift_variant	p.I1580Nfs*11		0.3643
+TCGA-CM-6169-01A	chr5	112838007	112838007	APC	C	T		stop_gained	p.R805*		0.4	TCGA-CM-6169-01A	chr5	112840194	112840194	APC	G	-		frameshift_variant	p.N1535Mfs*30		0.277
+TCGA-AM-5820-01A	chr5	112838793	112838794	APC	-	T		frameshift_variant	p.Q1067Lfs*14		0.06494	TCGA-AM-5820-01A	chr5	112838794	112838795	APC	-	TAATTTATTGGTGT		frameshift_variant	p.Q1067Hfs*64		0.06494
+TCGA-AA-3950-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-G4-6588-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AD-6895-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-DM-A1DA-01A	chr5	112838740	112838740	APC	G	A		stop_gained	p.W1049*		0.4873	TCGA-DM-A1DA-01A	chr5	112839816	112839816	APC	G	T		stop_gained	p.E1408*		0.4397
+TCGA-DM-A28C-01A	chr5	112827194	112827194	APC	C	T		stop_gained	p.R499*		0.8095
+TCGA-CK-6747-01A	chr5	112840254	112840255	APC	-	A		frameshift_variant	p.T1556Nfs*3		0.7913
+TCGA-3L-AA1B-01A	chr5	112838220	112838220	APC	C	T		stop_gained	p.R876*		0.4382	TCGA-3L-AA1B-01A	chr5	112839942	112839942	APC	C	T		stop_gained	p.R1450*		0.08209
+TCGA-AD-5900-01A	chr5	112839210	112839210	APC	A	G		missense_variant	p.S1206G		0.2125
+TCGA-CK-4951-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-G4-6628-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AM-5821-01A	chr5	112755025	112755026	APC	-	CT		frameshift_variant;splice_region_variant	p.E46Lfs*25		0.05682	TCGA-AM-5821-01A	chr5	112837993	112837993	APC	T	-		frameshift_variant	p.F801Lfs*19		0.3125
+TCGA-AD-A5EJ-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-F4-6570-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-6171-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-G4-6586-01A	chr5	112821978	112821978	APC	A	G		synonymous_variant	p.A465A		0.2985
+TCGA-AA-3947-01A	chr5	112835063	112835063	APC	C	A		missense_variant	p.T619N		0.06826	TCGA-AA-3947-01A	chr5	112838134	112838134	APC	A	-		frameshift_variant	p.D849Ifs*12		0.3451	TCGA-AA-3947-01A	chr5	112840131	112840131	APC	G	T		stop_gained	p.E1513*		0.3631	TCGA-AA-3947-01A	chr5	112841716	112841716	APC	A	G		missense_variant	p.E2041G		0.03571	TCGA-AA-3947-01A	chr5	112842065	112842065	APC	A	C		missense_variant	p.K2157N		0.06593
+TCGA-AA-3815-01A	chr5	112840254	112840255	APC	-	A		frameshift_variant	p.T1556Nfs*3		0.4444
+TCGA-AA-3877-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AU-6004-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-DM-A1HB-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-G4-6299-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-5861-01A	chr5	112755020	112755020	APC	A	G		missense_variant	p.M44V		0.1698
+TCGA-CK-4952-01A	chr5	112815564	112815564	APC	C	T		stop_gained	p.R302*		0.3538	TCGA-CK-4952-01A	chr5	112840254	112840255	APC	-	A		frameshift_variant	p.T1556Nfs*3		0.3824
+TCGA-A6-2686-01A	chr5	112819037	112819037	APC	A	G		synonymous_variant	p.L335L		0.2632	TCGA-A6-2686-01A	chr5	112841617	112841617	APC	C	T		missense_variant	p.A2008V		0.1743
+TCGA-QG-A5Z2-01A	chr5	112828889	112828889	APC	C	T		stop_gained	p.R554*		0.3142
+TCGA-A6-3809-01A	chr5	112838133	112838134	APC	-	A		frameshift_variant	p.D849Rfs*2		0.2955
+TCGA-D5-6540-01A	chr5	112838134	112838134	APC	A	-		frameshift_variant	p.D849Ifs*12		0.4725
+TCGA-AA-3684-01A	chr5	112838544	112838544	APC	G	T		stop_gained	p.E984*		0.1289	TCGA-AA-3684-01A	chr5	112839978	112839979	APC	-	AG		frameshift_variant	p.S1465Rfs*9		0.235
+TCGA-CK-6746-01A	chr5	112839469	112839469	APC	C	T		missense_variant	p.T1292M		0.4904
+TCGA-AA-3713-01A	chr5	112839978	112839979	APC	-	AG		frameshift_variant	p.S1465Rfs*9		0.303
+TCGA-A6-2672-01B	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-G4-6302-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3492-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AZ-4614-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AZ-6598-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3949-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AY-6196-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-6649-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AD-6889-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-5661-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-5665-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3664-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3821-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3833-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3966-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-A01P-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-A022-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-A02R-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AZ-4615-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-D5-6534-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-D5-6928-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-D5-6930-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-G4-6321-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CA-6717-01A	chr5	112819074	112819074	APC	C	T		stop_gained	p.R348*		0.09195	TCGA-CA-6717-01A	chr5	112838008	112838008	APC	G	A		missense_variant	p.R805Q		0.1458	TCGA-CA-6717-01A	chr5	112839769	112839769	APC	C	A		stop_gained	p.S1392*		0.1798	TCGA-CA-6717-01A	chr5	112839942	112839942	APC	C	T		stop_gained	p.R1450*		0.1719	TCGA-CA-6717-01A	chr5	112840300	112840300	APC	A	C		missense_variant	p.D1569A		0.1058	TCGA-CA-6717-01A	chr5	112842514	112842514	APC	C	T		missense_variant	p.S2307L		0.2059	TCGA-CA-6717-01A	chr5	112844040	112844040	APC	C	T		stop_gained	p.R2816*		0.2212
+TCGA-CM-4752-01A	chr5	112827947	112827947	APC	A	T		stop_gained	p.K523*		0.243	TCGA-CM-4752-01A	chr5	112839979	112839982	APC	AGAG	-		frameshift_variant	p.E1464Vfs*8		0.2243
+TCGA-F4-6856-01A	chr5	112792489	112792489	APC	G	A		missense_variant	p.R230H		0.3363
+TCGA-D5-5540-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3837-01A	chr5	112780828	112780829	APC	-	T		frameshift_variant	p.Y191Lfs*2		0.38	TCGA-AA-3837-01A	chr5	112839474	112839474	APC	C	T		stop_gained	p.Q1294*		0.3147
+TCGA-A6-5666-01A	chr5	112780895	112780895	APC	C	T		stop_gained	p.R213*		0.3571
+TCGA-AA-3848-01A	chr5	112792446	112792446	APC	C	T		stop_gained;splice_region_variant	p.R216*		0.6667
+TCGA-AA-3864-01A	chr5	112819074	112819074	APC	C	T		stop_gained	p.R348*		0.3421	TCGA-AA-3864-01A	chr5	112828919	112828919	APC	C	T		stop_gained	p.R564*		0.3475
+TCGA-AA-3510-01A	chr5	112838934	112838934	APC	C	T		stop_gained	p.R1114*		0.3068	TCGA-AA-3510-01A	chr5	112841063	112841063	APC	C	A		missense_variant	p.F1823L		0.06796
+TCGA-D5-6927-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-G4-6297-01A	chr5	112838778	112838778	APC	C	T		stop_gained	p.Q1062*		0.2764	TCGA-G4-6297-01A	chr5	112840059	112840059	APC	T	-		frameshift_variant	p.L1489Yfs*18		0.2577
+TCGA-DM-A288-01A	chr5	112838397	112838398	APC	-	A		stop_gained;frameshift_variant	p.Y935*		0.3492
+TCGA-NH-A50T-01A	chr5	112775705	112775705	APC	A	-		frameshift_variant	p.R168Efs*2		0.4467	TCGA-NH-A50T-01A	chr5	112839757	112839758	APC	-	TTCT		frameshift_variant	p.V1390Ffs*6		0.3944
+TCGA-DM-A280-01A	chr5	112839951	112839951	APC	C	-		frameshift_variant	p.P1453Lfs*20		0.1558
+TCGA-F4-6807-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-G4-6311-01A	chr5	112766334	112766335	APC	-	A		frameshift_variant	p.Q50Tfs*7		0.1802
+TCGA-CM-5868-01A	chr5	112838715	112838715	APC	C	T		stop_gained	p.Q1041*		0.6537
+TCGA-AA-3675-01A	chr5	112792494	112792494	APC	C	T		stop_gained	p.R232*		0.7677
+TCGA-DM-A28A-01A	chr5	112835083	112835086	APC	ACAA	-		frameshift_variant	p.N627Lfs*2		0.6559
+TCGA-AA-A00N-01A	chr5	112839436	112839436	APC	C	A		stop_gained	p.S1281*		0.2635	TCGA-AA-A00N-01A	chr5	112839816	112839816	APC	G	T		stop_gained	p.E1408*		0.2941	TCGA-AA-A00N-01A	chr5	112842169	112842169	APC	A	C		missense_variant	p.K2192T		0.2	TCGA-AA-A00N-01A	chr5	112843995	112843995	APC	C	T		missense_variant	p.R2801W		0.0681
+TCGA-AA-3984-01A	chr5	112837586	112837586	APC	T	G		synonymous_variant	p.T664T		0.2992	TCGA-AA-3984-01A	chr5	112838934	112838934	APC	C	T		stop_gained	p.R1114*		0.2648	TCGA-AA-3984-01A	chr5	112842303	112842303	APC	C	T		stop_gained	p.R2237*		0.223	TCGA-AA-3984-01A	chr5	112843945	112843945	APC	T	G		missense_variant	p.F2784C		0.2846
+TCGA-F4-6569-01A	chr5	112839812	112839812	APC	G	-		frameshift_variant	p.S1407Vfs*8		0.3871
+TCGA-AA-3866-01A	chr5	112838697	112838697	APC	C	T		stop_gained	p.Q1035*		0.4	TCGA-AA-3866-01A	chr5	112839504	112839505	APC	-	T		frameshift_variant	p.A1305Sfs*10		0.2432
+TCGA-A6-A566-01A	chr5	112839583	112839584	APC	CT	-		frameshift_variant	p.P1330Qfs*11		0.2235
+TCGA-AY-A69D-01A	chr5	112837920	112837921	APC	-	TC		frameshift_variant	p.D777*		0.3699
+TCGA-AA-3673-01A	chr5	112838571	112838571	APC	A	T		stop_gained	p.K993*		0.43	TCGA-AA-3673-01A	chr5	112840057	112840063	APC	TATTACA	-		frameshift_variant	p.L1488Ffs*17		0.2703
+TCGA-AD-6965-01A	chr5	112839816	112839816	APC	G	T		stop_gained	p.E1408*		0.6557
+TCGA-D5-6537-01A	chr5	112835080	112835083	APC	CAGA	-		frameshift_variant	p.N627Lfs*2		0.4533
+TCGA-A6-6137-01A	chr5	112827194	112827194	APC	C	T		stop_gained	p.R499*		0.4177	TCGA-A6-6137-01A	chr5	112839945	112839945	APC	G	T		stop_gained	p.E1451*		0.3425
+TCGA-AA-3850-01A	chr5	112792445	112792445	APC	G	A		splice_acceptor_variant	p.X216_splice		0.1488	TCGA-AA-3850-01A	chr5	112838751	112838751	APC	A	-		frameshift_variant	p.K1053Nfs*3		0.3871
+TCGA-AA-3812-01A	chr5	112828899	112828899	APC	T	C		missense_variant	p.V557A		0.1912	TCGA-AA-3812-01A	chr5	112839855	112839855	APC	A	-		frameshift_variant	p.S1421Vfs*52		0.5143
+TCGA-AY-6386-01A	chr5	112837885	112837885	APC	T	G		stop_gained	p.L764*		0.2844	TCGA-AY-6386-01A	chr5	112840254	112840255	APC	-	A		frameshift_variant	p.T1556Nfs*3		0.3214
+TCGA-DM-A1D8-01A	chr5	112838220	112838220	APC	C	T		stop_gained	p.R876*		0.2143	TCGA-DM-A1D8-01A	chr5	112840254	112840255	APC	-	A		frameshift_variant	p.T1556Nfs*3		0.5988
+TCGA-G4-6293-01A	chr5	112838220	112838220	APC	C	T		stop_gained	p.R876*		0.25	TCGA-G4-6293-01A	chr5	112840059	112840059	APC	T	-		frameshift_variant	p.L1489Yfs*18		0.2846	TCGA-G4-6293-01A	chr5	112841332	112841332	APC	T	C		missense_variant	p.I1913T		0.3042
+TCGA-CM-6678-01A	chr5	112838415	112838415	APC	G	T		stop_gained	p.E941*		0.2361	TCGA-CM-6678-01A	chr5	112839899	112839900	APC	-	AG		frameshift_variant	p.S1436Rfs*38		0.4206
+TCGA-AA-3855-01A	chr5	112839654	112839654	APC	T	-		frameshift_variant	p.S1355Lfs*60		0.6667
+TCGA-D5-6541-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-4107-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3663-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-4747-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-QG-A5YX-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-G4-6627-01A	chr5	112780895	112780895	APC	C	T		stop_gained	p.R213*		0.1161	TCGA-G4-6627-01A	chr5	112839556	112839557	APC	-	C		frameshift_variant	p.E1322Rfs*10		0.1511	TCGA-G4-6627-01A	chr5	112839558	112839558	APC	G	C		missense_variant	p.E1322Q		0.15
+TCGA-D5-6532-01A	chr5	112780895	112780895	APC	C	T		stop_gained	p.R213*		0.4194	TCGA-D5-6532-01A	chr5	112839549	112839549	APC	C	-		frameshift_variant	p.P1319Lfs*2		0.3723
+TCGA-DM-A0X9-01A	chr5	112780895	112780895	APC	C	T		stop_gained	p.R213*		0.3312	TCGA-DM-A0X9-01A	chr5	112839783	112839783	APC	G	T		stop_gained	p.E1397*		0.437
+TCGA-AA-A01C-01A	chr5	112780895	112780895	APC	C	T		stop_gained	p.R213*		0.6111
+TCGA-D5-6920-01A	chr5	112792494	112792494	APC	C	T		stop_gained	p.R232*		0.1787
+TCGA-AA-A03J-01A	chr5	112801278	112801278	APC	G	A		splice_acceptor_variant	p.X244_splice		0.261
+TCGA-AA-3712-01A	chr5	112819261	112819261	APC	T	A		stop_gained	p.L410*		0.6434
+TCGA-AY-5543-01A	chr5	112827194	112827194	APC	C	T		stop_gained	p.R499*		0.1913	TCGA-AY-5543-01A	chr5	112840069	112840069	APC	C	-		frameshift_variant	p.T1493Rfs*14		0.4898
+TCGA-CM-6168-01A	chr5	112827194	112827194	APC	C	T		stop_gained	p.R499*		0.1707	TCGA-CM-6168-01A	chr5	112839990	112839990	APC	G	T		stop_gained	p.G1466*		0.2
+TCGA-CM-6680-01A	chr5	112828919	112828919	APC	C	T		stop_gained	p.R564*		0.2711	TCGA-CM-6680-01A	chr5	112840333	112840333	APC	T	-		frameshift_variant	p.S1581Lfs*69		0.3448
+TCGA-AA-A03F-01A	chr5	112838007	112838007	APC	C	T		stop_gained	p.R805*		0.3371	TCGA-AA-A03F-01A	chr5	112839942	112839942	APC	C	T		stop_gained	p.R1450*		0.3117
+TCGA-AA-A02E-01A	chr5	112838140	112838140	APC	A	-		frameshift_variant	p.D849Vfs*12		0.6111
+TCGA-DM-A285-01A	chr5	112838215	112838215	APC	C	G		stop_gained	p.S874*		0.1944	TCGA-DM-A285-01A	chr5	112839816	112839816	APC	G	T		stop_gained	p.E1408*		0.3774
+TCGA-D5-6931-01A	chr5	112838220	112838220	APC	C	T		stop_gained	p.R876*		0.6591
+TCGA-DM-A0XD-01A	chr5	112838399	112838399	APC	C	A		stop_gained	p.Y935*		0.3789	TCGA-DM-A0XD-01A	chr5	112839931	112839931	APC	C	-		frameshift_variant	p.A1446Vfs*27		0.3757
+TCGA-AD-6890-01A	chr5	112838399	112838399	APC	C	A		stop_gained	p.Y935*		0.4462	TCGA-AD-6890-01A	chr5	112839942	112839942	APC	C	T		stop_gained	p.R1450*		0.2778
+TCGA-F4-6809-01A	chr5	112838413	112838413	APC	C	A		stop_gained	p.S940*		0.1705
+TCGA-AA-3818-01A	chr5	112838473	112838474	APC	-	AA		frameshift_variant	p.N961Kfs*5		0.447	TCGA-AA-3818-01A	chr5	112839827	112839827	APC	T	-		frameshift_variant	p.S1411Rfs*4		0.4167
+TCGA-A6-5657-01A	chr5	112838544	112838544	APC	G	T		stop_gained	p.E984*		0.1694	TCGA-A6-5657-01A	chr5	112840075	112840076	APC	-	AAGT		frameshift_variant	p.T1496Kfs*19		0.1667
+TCGA-G4-6304-01A	chr5	112839403	112839404	APC	-	T		frameshift_variant	p.S1272Ffs*4		0.1506	TCGA-G4-6304-01A	chr5	112840051	112840057	APC	ATACTTT	-		frameshift_variant	p.T1487Yfs*18		0.09774
+TCGA-AA-A02O-01A	chr5	112839496	112839496	APC	C	-		frameshift_variant	p.L1302Cfs*3		0.7679
+TCGA-5M-AATE-01A	chr5	112839627	112839627	APC	G	T		stop_gained	p.E1345*		0.8125
+TCGA-AA-3852-01A	chr5	112839856	112839856	APC	G	-		frameshift_variant	p.S1421Mfs*52		0.6682
+TCGA-CM-5860-01A	chr5	112842303	112842303	APC	C	T		stop_gained	p.R2237*		0.307
+TCGA-AA-A02Y-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-4748-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-D5-6529-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3660-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-T9-A92H-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-QG-A5YW-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-5M-AATA-01A	chr5	112792467	112792467	APC	C	T		stop_gained	p.Q223*		0.2133
+TCGA-AA-3956-01A	chr5	112839918	112839918	APC	C	-		frameshift_variant	p.P1442Lfs*31		0.4091
+TCGA-AA-A01I-01A	chr5	112838399	112838399	APC	C	A		stop_gained	p.Y935*		0.2702
+TCGA-AZ-4616-01A	chr5	112838220	112838220	APC	C	T		stop_gained	p.R876*		0.3636	TCGA-AZ-4616-01A	chr5	112840247	112840250	APC	AGAG	-		frameshift_variant	p.E1552Qfs*12		0.3125
+TCGA-G4-6295-01A	chr5	112839979	112839982	APC	AGAG	-		frameshift_variant	p.E1464Vfs*8		0.322
+TCGA-A6-5660-01A	chr5	112780895	112780895	APC	C	T		stop_gained	p.R213*		0.773	TCGA-A6-5660-01A	chr5	112840220	112840220	APC	T	-		frameshift_variant	p.E1544Nfs*21		0.04592
+TCGA-F4-6461-01A	chr5	112838422	112838422	APC	C	A		stop_gained	p.S943*		0.2871	TCGA-F4-6461-01A	chr5	112839879	112839879	APC	C	T		stop_gained	p.Q1429*		0.2234
+TCGA-CM-4751-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AD-6964-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-A010-01A	chr5	112754895	112754895	APC	C	A		missense_variant	p.A2D		0.4094	TCGA-AA-A010-01A	chr5	112827972	112827972	APC	C	T		missense_variant	p.A531V		0.2959	TCGA-AA-A010-01A	chr5	112828919	112828919	APC	C	T		stop_gained	p.R564*		0.3031	TCGA-AA-A010-01A	chr5	112834968	112834968	APC	C	T		synonymous_variant	p.S587S		0.4368	TCGA-AA-A010-01A	chr5	112839942	112839942	APC	C	T		stop_gained	p.R1450*		0.3947	TCGA-AA-A010-01A	chr5	112840580	112840580	APC	C	T		synonymous_variant	p.I1662I		0.45	TCGA-AA-A010-01A	chr5	112842880	112842880	APC	C	T		missense_variant	p.S2429F		0.3846
+TCGA-AA-3977-01A	chr5	112775652	112775652	APC	A	G		missense_variant	p.D149G		0.09836	TCGA-AA-3977-01A	chr5	112839519	112839519	APC	G	T		stop_gained	p.E1309*		0.2563	TCGA-AA-3977-01A	chr5	112841680	112841680	APC	C	A		missense_variant	p.S2029Y		0.2397
+TCGA-F4-6805-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-NH-A5IV-01A	chr5	112827194	112827194	APC	C	T		stop_gained	p.R499*		0.464	TCGA-NH-A5IV-01A	chr5	112839294	112839294	APC	A	G		missense_variant	p.S1234G		0.3947	TCGA-NH-A5IV-01A	chr5	112840254	112840255	APC	-	A		frameshift_variant	p.T1556Nfs*3		0.4636
+TCGA-A6-6781-01A	chr5	112834969	112834969	APC	G	A		missense_variant	p.V588I		0.1493
+TCGA-QG-A5YV-01A	chr5	112839208	112839208	APC	G	-		frameshift_variant	p.S1205Tfs*60		0.3556
+TCGA-CM-4746-01A	chr5	112815531	112815532	APC	-	T		frameshift_variant	p.L292Ffs*4		0.2593	TCGA-CM-4746-01A	chr5	112828967	112828967	APC	A	-		frameshift_variant	p.K581Rfs*9		0.383
+TCGA-AA-3696-01A	chr5	112815494	112815494	APC	G	A		splice_acceptor_variant	p.X279_splice		0.3765	TCGA-AA-3696-01A	chr5	112839749	112839750	APC	-	AGAT		frameshift_variant	p.C1387*		0.3091
+TCGA-A6-3808-01A	chr5	112838007	112838007	APC	C	T		stop_gained	p.R805*		0.1902
+TCGA-F4-6855-01A	chr5	112838399	112838399	APC	C	A		stop_gained	p.Y935*		0.2125	TCGA-F4-6855-01A	chr5	112839879	112839879	APC	C	T		stop_gained	p.Q1429*		0.5327
+TCGA-DM-A28M-01A	chr5	112838422	112838422	APC	C	A		stop_gained	p.S943*		0.1284	TCGA-DM-A28M-01A	chr5	112839833	112839833	APC	G	-		frameshift_variant	p.V1414*		0.7263
+TCGA-AA-3861-01A	chr5	112840255	112840255	APC	A	-		frameshift_variant	p.T1556Lfs*9		0.6136
+TCGA-CA-5255-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-6780-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AZ-4315-01A	chr5	112834979	112834979	APC	C	T		missense_variant	p.A591V		0.3832	TCGA-AZ-4315-01A	chr5	112839175	112839175	APC	C	A		stop_gained	p.S1194*		0.3725	TCGA-AZ-4315-01A	chr5	112840254	112840255	APC	-	A		frameshift_variant	p.T1556Nfs*3		0.2586	TCGA-AZ-4315-01A	chr5	112842303	112842303	APC	C	T		stop_gained	p.R2237*		0.2574	TCGA-AZ-4315-01A	chr5	112842514	112842514	APC	C	T		missense_variant	p.S2307L		0.2553
+TCGA-AA-A01V-01A	chr5	112838413	112838413	APC	C	A		stop_gained	p.S940*		0.3945
+TCGA-CK-6751-01A	chr5	112840319	112840319	APC	A	-		frameshift_variant	p.E1576Kfs*74		0.6122
+TCGA-DM-A1D4-01A	chr5	112819112	112819113	APC	AC	-		frameshift_variant	p.H361Wfs*3		0.6	TCGA-DM-A1D4-01A	chr5	112840254	112840255	APC	-	A		frameshift_variant	p.T1556Nfs*3		0.7432
+TCGA-CM-5349-01A	chr5	112838934	112838934	APC	C	T		stop_gained	p.R1114*		0.1931	TCGA-CM-5349-01A	chr5	112839909	112839909	APC	C	-		frameshift_variant	p.P1439Lfs*34		0.2532
+TCGA-AZ-6603-01A	chr5	112775678	112775678	APC	T	-		frameshift_variant	p.Y158Ifs*12		0.6667
+TCGA-A6-6652-01A	chr5	112775711	112775714	APC	ATAG	-		frameshift_variant	p.D170Vfs*4		0.3043	TCGA-A6-6652-01A	chr5	112839436	112839436	APC	C	G		stop_gained	p.S1281*		0.4082
+TCGA-AY-A8YK-01A	chr5	112780788	112780788	APC	A	G		splice_acceptor_variant	p.X178_splice		0.2042	TCGA-AY-A8YK-01A	chr5	112838697	112838697	APC	C	T		stop_gained	p.Q1035*		0.3129
+TCGA-AZ-6608-01A	chr5	112780814	112780814	APC	A	T		stop_gained	p.R186*		0.5455	TCGA-AZ-6608-01A	chr5	112839585	112839585	APC	A	T		stop_gained	p.R1331*		0.3605
+TCGA-A6-2675-01A	chr5	112780862	112780863	APC	-	A		frameshift_variant	p.Q203Tfs*49		0.3947	TCGA-A6-2675-01A	chr5	112819245	112819245	APC	C	T		stop_gained	p.R405*		0.2333
+TCGA-AA-3695-01A	chr5	112780895	112780895	APC	C	T		stop_gained	p.R213*		0.7586
+TCGA-NH-A6GB-01A	chr5	112780895	112780895	APC	C	T		stop_gained	p.R213*		0.2516	TCGA-NH-A6GB-01A	chr5	112839879	112839879	APC	C	T		stop_gained	p.Q1429*		0.2857
+TCGA-A6-5664-01A	chr5	112780895	112780895	APC	C	T		stop_gained	p.R213*		0.1625	TCGA-A6-5664-01A	chr5	112839942	112839942	APC	C	T		stop_gained	p.R1450*		0.2
+TCGA-G4-6314-01A	chr5	112780895	112780895	APC	C	T		stop_gained	p.R213*		0.1884	TCGA-G4-6314-01A	chr5	112840063	112840064	APC	-	T		frameshift_variant	p.A1492Cfs*22		0.3939
+TCGA-CM-6163-01A	chr5	112780895	112780895	APC	C	T		stop_gained	p.R213*		0.4731
+TCGA-AA-3952-01A	chr5	112780895	112780895	APC	C	T		stop_gained	p.R213*		0.3143	TCGA-AA-3952-01A	chr5	112839511	112839515	APC	AAATA	-		frameshift_variant	p.I1307Rfs*6		0.1176
+TCGA-AU-3779-01A	chr5	112780895	112780895	APC	C	T		stop_gained	p.R213*		0.5658	TCGA-AU-3779-01A	chr5	112839625	112839625	APC	C	A		stop_gained	p.S1344*		0.1931
+TCGA-AA-A01X-01A	chr5	112792445	112792445	APC	G	T		splice_acceptor_variant	p.X216_splice		0.1838
+TCGA-CK-4947-01B	chr5	112792446	112792446	APC	C	T		stop_gained;splice_region_variant	p.R216*		0.2532
+TCGA-CM-6172-01A	chr5	112792446	112792446	APC	C	T		stop_gained;splice_region_variant	p.R216*		0.4314	TCGA-CM-6172-01A	chr5	112839726	112839726	APC	C	T		stop_gained	p.Q1378*		0.3605
+TCGA-CM-5341-01A	chr5	112792446	112792446	APC	C	T		stop_gained;splice_region_variant	p.R216*		0.2921
+TCGA-AZ-4681-01A	chr5	112792446	112792446	APC	C	T		stop_gained;splice_region_variant	p.R216*		0.8
+TCGA-AD-6888-01A	chr5	112792446	112792446	APC	C	T		stop_gained;splice_region_variant	p.R216*		0.5096
+TCGA-AA-3679-01A	chr5	112792446	112792446	APC	C	T		stop_gained;splice_region_variant	p.R216*		0.4158
+TCGA-G4-6315-01A	chr5	112792446	112792446	APC	C	T		stop_gained;splice_region_variant	p.R216*		0.302	TCGA-G4-6315-01A	chr5	112839651	112839651	APC	G	T		stop_gained	p.E1353*		0.2635
+TCGA-CK-5914-01A	chr5	112792446	112792446	APC	C	T		stop_gained;splice_region_variant	p.R216*		0.5189	TCGA-CK-5914-01A	chr5	112842672	112842672	APC	G	A		missense_variant	p.G2360S		0.5221
+TCGA-AZ-6601-01A	chr5	112792494	112792494	APC	C	T		stop_gained	p.R232*		0.254	TCGA-AZ-6601-01A	chr5	112815507	112815507	APC	C	T		stop_gained	p.R283*		0.2258
+TCGA-CM-6164-01A	chr5	112792494	112792494	APC	C	T		stop_gained	p.R232*		0.3555
+TCGA-G4-6626-01A	chr5	112792494	112792494	APC	C	T		stop_gained	p.R232*		0.813
+TCGA-AA-3980-01A	chr5	112792494	112792494	APC	C	T		stop_gained	p.R232*		0.4876
+TCGA-D5-6926-01A	chr5	112792494	112792494	APC	C	T		stop_gained	p.R232*		0.3188	TCGA-D5-6926-01A	chr5	112839465	112839465	APC	C	T		stop_gained	p.Q1291*		0.2344	TCGA-D5-6926-01A	chr5	112841229	112841229	APC	G	T		missense_variant	p.A1879S		0.1707
+TCGA-AA-3860-01A	chr5	112792504	112792504	APC	T	A		stop_gained	p.L235*		0.3396	TCGA-AA-3860-01A	chr5	112839606	112839606	APC	C	T		stop_gained	p.Q1338*		0.4709
+TCGA-AA-A01T-01A	chr5	112792515	112792515	APC	G	-		frameshift_variant	p.A239Qfs*54		0.248	TCGA-AA-A01T-01A	chr5	112838934	112838934	APC	C	T		stop_gained	p.R1114*		0.4321
+TCGA-5M-AAT5-01A	chr5	112801339	112801339	APC	C	T		stop_gained	p.Q264*		0.3122	TCGA-5M-AAT5-01A	chr5	112839924	112839924	APC	C	T		stop_gained	p.Q1444*		0.4
+TCGA-CA-6716-01A	chr5	112801351	112801351	APC	G	T		stop_gained	p.E268*		0.8297
+TCGA-A6-A567-01A	chr5	112815507	112815507	APC	C	T		stop_gained	p.R283*		0.4095
+TCGA-AA-3862-01A	chr5	112815507	112815507	APC	C	T		stop_gained	p.R283*		0.2598	TCGA-AA-3862-01A	chr5	112839519	112839519	APC	G	T		stop_gained	p.E1309*		0.2135
+TCGA-AA-3973-01A	chr5	112815507	112815507	APC	C	T		stop_gained	p.R283*		0.4686	TCGA-AA-3973-01A	chr5	112839726	112839726	APC	C	T		stop_gained	p.Q1378*		0.5714
+TCGA-A6-2681-01A	chr5	112815564	112815564	APC	C	T		stop_gained	p.R302*		0.4167
+TCGA-AA-3982-01A	chr5	112815564	112815564	APC	C	T		stop_gained	p.R302*		0.3125	TCGA-AA-3982-01A	chr5	112828007	112828007	APC	G	C		splice_donor_variant	p.X542_splice		0.1834	TCGA-AA-3982-01A	chr5	112839942	112839942	APC	C	T		stop_gained	p.R1450*		0.2
+TCGA-AZ-6605-01A	chr5	112815564	112815564	APC	C	T		stop_gained	p.R302*		0.3684	TCGA-AZ-6605-01A	chr5	112839501	112839501	APC	C	T		stop_gained	p.Q1303*		0.1159
+TCGA-AZ-4682-01B	chr5	112815564	112815564	APC	C	T		stop_gained	p.R302*		0.4444	TCGA-AZ-4682-01B	chr5	112839693	112839693	APC	C	T		stop_gained	p.Q1367*		0.5455
+TCGA-AA-A02H-01A	chr5	112815579	112815579	APC	C	-		frameshift_variant	p.H307Ifs*29		0.6796
+TCGA-SS-A7HO-01A	chr5	112819026	112819026	APC	C	T		stop_gained	p.R332*		0.9	TCGA-SS-A7HO-01A	chr5	112840239	112840239	APC	C	T		stop_gained	p.Q1549*		0.8696	TCGA-SS-A7HO-01A	chr5	112843803	112843803	APC	G	C		missense_variant	p.E2737Q		0.431
+TCGA-AA-3841-01A	chr5	112819026	112819026	APC	C	T		stop_gained	p.R332*		0.6082
+TCGA-CM-6674-01A	chr5	112819236	112819236	APC	C	T		missense_variant	p.R402C		0.2645
+TCGA-AA-3971-01A	chr5	112819238	112819238	APC	T	-		frameshift_variant	p.E403Kfs*51		0.3947
+TCGA-AA-A024-01A	chr5	112819245	112819245	APC	C	T		stop_gained	p.R405*		0.3676	TCGA-AA-A024-01A	chr5	112840262	112840263	APC	TA	-		frameshift_variant	p.I1557*		0.4313
+TCGA-AA-A01S-01A	chr5	112819266	112819266	APC	C	T		stop_gained	p.Q412*		0.4571
+TCGA-CA-5797-01A	chr5	112819301	112819301	APC	G	A		stop_gained	p.W423*		0.4235	TCGA-CA-5797-01A	chr5	112839653	112839654	APC	-	TTTTT		frameshift_variant	p.S1355Ffs*62		0.37
+TCGA-CK-5915-01A	chr5	112819345	112819345	APC	G	C		splice_donor_variant	p.X438_splice		0.8929
+TCGA-CA-6715-01A	chr5	112819346	112819346	APC	T	A		splice_donor_variant	p.X438_splice		0.8571
+TCGA-D5-6922-01A	chr5	112827107	112827107	APC	G	A		splice_acceptor_variant	p.X470_splice		0.3621	TCGA-D5-6922-01A	chr5	112839942	112839942	APC	C	T		stop_gained	p.R1450*		0.28
+TCGA-AA-A02F-01A	chr5	112827132	112827133	APC	-	A		frameshift_variant	p.L479Ifs*6		0.4514	TCGA-AA-A02F-01A	chr5	112839529	112839530	APC	-	A		frameshift_variant	p.T1313Nfs*2		0.5134
+TCGA-A6-2677-01A	chr5	112827137	112827137	APC	C	T		stop_gained	p.Q480*		0.4706	TCGA-A6-2677-01A	chr5	112840055	112840055	APC	T	-		frameshift_variant	p.L1488Yfs*19		0.4286
+TCGA-AA-3975-01A	chr5	112827194	112827194	APC	C	T		stop_gained	p.R499*		0.3759	TCGA-AA-3975-01A	chr5	112839510	112839510	APC	G	T		stop_gained	p.E1306*		0.381
+TCGA-CM-6170-01A	chr5	112827194	112827194	APC	C	T		stop_gained	p.R499*		0.315
+TCGA-AY-A54L-01A	chr5	112827248	112827248	APC	G	A		splice_donor_variant	p.X516_splice		0.2417	TCGA-AY-A54L-01A	chr5	112839883	112839883	APC	C	-		frameshift_variant	p.M1431Cfs*42		0.4035
+TCGA-A6-2684-01A	chr5	112827999	112828000	APC	-	A		frameshift_variant	p.Q541Tfs*19		0.6268
+TCGA-AA-3939-01A	chr5	112828004	112828004	APC	C	T		stop_gained;splice_region_variant	p.Q542*		0.2112
+TCGA-AA-3506-01A	chr5	112828889	112828889	APC	C	T		stop_gained	p.R554*		0.285
+TCGA-G4-6309-01A	chr5	112828889	112828889	APC	C	T		stop_gained	p.R554*		0.3744
+TCGA-NH-A6GA-01A	chr5	112828889	112828889	APC	C	T		stop_gained	p.R554*		0.4286	TCGA-NH-A6GA-01A	chr5	112839942	112839942	APC	C	T		stop_gained	p.R1450*		0.3478
+TCGA-CM-6676-01A	chr5	112828919	112828919	APC	C	T		stop_gained	p.R564*		0.3917	TCGA-CM-6676-01A	chr5	112839783	112839783	APC	G	T		stop_gained	p.E1397*		0.1651
+TCGA-DM-A1DB-01A	chr5	112828919	112828919	APC	C	T		stop_gained	p.R564*		0.7538
+TCGA-AA-3667-01A	chr5	112828919	112828919	APC	C	T		stop_gained	p.R564*		0.4529	TCGA-AA-3667-01A	chr5	112839793	112839793	APC	C	-		frameshift_variant	p.S1400*		0.45
+TCGA-A6-3810-01A	chr5	112834969	112834969	APC	G	-		frameshift_variant	p.V588Yfs*2		0.2333	TCGA-A6-3810-01A	chr5	112839506	112839506	APC	A	-		frameshift_variant	p.I1304Mfs*4		0.28
+TCGA-CM-6166-01A	chr5	112835065	112835068	APC	CTTA	-		frameshift_variant	p.Y622Gfs*7		0.3769	TCGA-CM-6166-01A	chr5	112839673	112839673	APC	C	G		missense_variant	p.S1360C		0.3594
+TCGA-G4-6306-01A	chr5	112835125	112835125	APC	C	T		missense_variant	p.R640W		0.3713	TCGA-G4-6306-01A	chr5	112838220	112838220	APC	C	T		stop_gained	p.R876*		0.3478	TCGA-G4-6306-01A	chr5	112839942	112839942	APC	C	T		stop_gained	p.R1450*		0.4661
+TCGA-NH-A8F8-01A	chr5	112835166	112835166	APC	G	A		splice_donor_variant	p.X653_splice		0.3571	TCGA-NH-A8F8-01A	chr5	112839942	112839942	APC	C	T		stop_gained	p.R1450*		0.2993
+TCGA-G4-6323-01A	chr5	112835166	112835166	APC	G	A		splice_donor_variant	p.X653_splice		0.2	TCGA-G4-6323-01A	chr5	112839978	112839979	APC	-	AG		frameshift_variant	p.S1465Rfs*9		0.383
+TCGA-CM-6679-01A	chr5	112835166	112835166	APC	G	A		splice_donor_variant	p.X653_splice		0.375
+TCGA-WS-AB45-01A	chr5	112837679	112837679	APC	G	T		missense_variant	p.Q695H		0.1474	TCGA-WS-AB45-01A	chr5	112843240	112843240	APC	G	A		missense_variant	p.R2549H		0.09474
+TCGA-A6-5659-01A	chr5	112837691	112837691	APC	G	A		stop_gained	p.W699*		0.787
+TCGA-AZ-6600-01A	chr5	112837702	112837702	APC	C	A		missense_variant	p.A703E		0.3387	TCGA-AZ-6600-01A	chr5	112838361	112838361	APC	A	T		stop_gained	p.R923*		0.2466	TCGA-AZ-6600-01A	chr5	112839942	112839942	APC	C	T		stop_gained	p.R1450*		0.3793
+TCGA-D5-6929-01A	chr5	112837819	112837819	APC	T	-		frameshift_variant	p.M743Cfs*18		0.2889
+TCGA-CK-4950-01A	chr5	112837863	112837864	APC	-	A		frameshift_variant	p.A759Sfs*16		0.2045	TCGA-CK-4950-01A	chr5	112839942	112839942	APC	C	T		stop_gained	p.R1450*		0.2571
+TCGA-AA-3979-01A	chr5	112837863	112837863	APC	C	T		stop_gained	p.Q757*		0.5102	TCGA-AA-3979-01A	chr5	112840069	112840069	APC	C	-		frameshift_variant	p.T1493Rfs*14		0.2
+TCGA-NH-A8F7-01A	chr5	112837900	112837900	APC	T	A		stop_gained	p.L769*		0.5571	TCGA-NH-A8F7-01A	chr5	112839627	112839627	APC	G	T		stop_gained	p.E1345*		0.3095
+TCGA-AA-A02K-01A	chr5	112837903	112837903	APC	C	G		stop_gained	p.S770*		0.3737	TCGA-AA-A02K-01A	chr5	112840186	112840195	APC	ATGACAATGG	-		frameshift_variant	p.N1531Rfs*31		0.179
+TCGA-QL-A97D-01A	chr5	112837921	112837928	APC	TAGACAAT	-		frameshift_variant	p.D777Kfs*8		0.3043	TCGA-QL-A97D-01A	chr5	112839833	112839833	APC	G	-		frameshift_variant	p.V1414*		0.1828
+TCGA-DM-A1HA-01A	chr5	112837933	112837934	APC	-	TCCCAAGGCA		frameshift_variant	p.H785Qfs*6		0.4937	TCGA-DM-A1HA-01A	chr5	112839835	112839835	APC	T	-		frameshift_variant	p.V1414Efs*5		0.581
+TCGA-DM-A28E-01A	chr5	112838007	112838007	APC	C	T		stop_gained	p.R805*		0.48	TCGA-DM-A28E-01A	chr5	112839950	112839950	APC	A	-		frameshift_variant	p.P1453Lfs*20		0.4253
+TCGA-AA-3994-01A	chr5	112838007	112838007	APC	C	T		stop_gained	p.R805*		0.3842	TCGA-AA-3994-01A	chr5	112840055	112840055	APC	T	-		frameshift_variant	p.L1488Yfs*19		0.397
+TCGA-AA-3692-01A	chr5	112838007	112838007	APC	C	T		stop_gained	p.R805*		0.3824	TCGA-AA-3692-01A	chr5	112839714	112839714	APC	G	T		stop_gained	p.E1374*		0.4148
+TCGA-AY-4071-01A	chr5	112838086	112838087	APC	-	A		frameshift_variant	p.P832Tfs*12		0.1579	TCGA-AY-4071-01A	chr5	112839897	112839897	APC	A	-		frameshift_variant	p.R1435Efs*38		0.4089
+TCGA-CK-5912-01A	chr5	112838095	112838095	APC	C	T		missense_variant	p.S834F		0.8361	TCGA-CK-5912-01A	chr5	112838100	112838113	APC	TCATCAAGAGGAAG	-		frameshift_variant	p.S836Lfs*3		0.8246
+TCGA-AA-3972-01A	chr5	112838134	112838134	APC	A	-		frameshift_variant	p.D849Ifs*12		0.5789
+TCGA-AA-3814-01A	chr5	112838140	112838141	APC	-	TAGAAGTT		frameshift_variant	p.R854Vfs*10		0.3023	TCGA-AA-3814-01A	chr5	112839816	112839816	APC	G	T		stop_gained	p.E1408*		0.2971
+TCGA-AA-A02W-01A	chr5	112838220	112838220	APC	C	T		stop_gained	p.R876*		0.3486	TCGA-AA-A02W-01A	chr5	112839714	112839714	APC	G	T		stop_gained	p.E1374*		0.3401
+TCGA-5M-AAT6-01A	chr5	112838220	112838220	APC	C	T		stop_gained	p.R876*		0.1359	TCGA-5M-AAT6-01A	chr5	112839954	112839954	APC	A	-		frameshift_variant	p.N1455Ifs*18		0.1517
+TCGA-AA-A01R-01A	chr5	112838220	112838220	APC	C	T		stop_gained	p.R876*		0.2817	TCGA-AA-A01R-01A	chr5	112839942	112839942	APC	C	T		stop_gained	p.R1450*		0.2802
+TCGA-DM-A28F-01A	chr5	112838220	112838220	APC	C	T		stop_gained	p.R876*		0.4259	TCGA-DM-A28F-01A	chr5	112839833	112839833	APC	G	-		frameshift_variant	p.V1414*		0.3488
+TCGA-RU-A8FL-01A	chr5	112838220	112838220	APC	C	T		stop_gained	p.R876*		0.3182	TCGA-RU-A8FL-01A	chr5	112840060	112840061	APC	-	A		frameshift_variant	p.H1490Tfs*24		0.2347
+TCGA-AA-3856-01A	chr5	112838220	112838220	APC	C	T		stop_gained	p.R876*		0.6827
+TCGA-AA-3697-01A	chr5	112838220	112838220	APC	C	T		stop_gained	p.R876*		0.5135	TCGA-AA-3697-01A	chr5	112838942	112838942	APC	T	C		synonymous_variant	p.G1116G		0.4797	TCGA-AA-3697-01A	chr5	112839519	112839519	APC	G	T		stop_gained	p.E1309*		0.2358
+TCGA-AA-3869-01A	chr5	112838290	112838291	APC	CC	-		frameshift_variant	p.T899Ifs*12		0.4
+TCGA-AA-3976-01A	chr5	112838295	112838295	APC	C	T		stop_gained	p.Q901*		0.4103	TCGA-AA-3976-01A	chr5	112839833	112839833	APC	G	-		frameshift_variant	p.V1414*		0.3898
+TCGA-A6-4105-01A	chr5	112838300	112838301	APC	-	TCCT		frameshift_variant	p.D903Sfs*2		0.4
+TCGA-D5-5537-01A	chr5	112838330	112838339	APC	ACATTGTGTG	-		frameshift_variant	p.H913Qfs*39		0.2297	TCGA-D5-5537-01A	chr5	112839942	112839942	APC	C	T		stop_gained	p.R1450*		0.4846
+TCGA-AZ-6606-01A	chr5	112838331	112838331	APC	C	-		frameshift_variant	p.H913Ifs*3		0.3095	TCGA-AZ-6606-01A	chr5	112839942	112839942	APC	C	T		stop_gained	p.R1450*		0.5254
+TCGA-A6-6782-01A	chr5	112838346	112838346	APC	G	T		stop_gained	p.E918*		0.1875	TCGA-A6-6782-01A	chr5	112839549	112839549	APC	C	-		frameshift_variant	p.P1319Lfs*2		0.2588
+TCGA-D5-6533-01A	chr5	112838346	112838346	APC	G	T		stop_gained	p.E918*		0.3988	TCGA-D5-6533-01A	chr5	112840058	112840074	APC	ATTACATTTTGCCACGG	-		frameshift_variant	p.L1489Kfs*19		0.3377
+TCGA-AA-3681-01A	chr5	112838364	112838364	APC	A	T		stop_gained	p.R924*		0.2105	TCGA-AA-3681-01A	chr5	112839942	112839942	APC	C	T		stop_gained	p.R1450*		0.4483
+TCGA-G4-6294-01A	chr5	112838397	112838398	APC	-	A		stop_gained;frameshift_variant	p.Y935*		0.419
+TCGA-AA-3495-01A	chr5	112838397	112838398	APC	-	A		stop_gained;frameshift_variant	p.Y935*		0.2157	TCGA-AA-3495-01A	chr5	112840064	112840064	APC	T	-		frameshift_variant	p.F1491Lfs*16		0.2658
+TCGA-G4-6322-01A	chr5	112838397	112838398	APC	-	A		stop_gained;frameshift_variant	p.Y935*		0.4495	TCGA-G4-6322-01A	chr5	112839661	112839661	APC	C	G		stop_gained	p.S1356*		0.4057
+TCGA-F4-6806-01A	chr5	112838399	112838399	APC	C	G		stop_gained	p.Y935*		0.3966	TCGA-F4-6806-01A	chr5	112839933	112839933	APC	C	T		stop_gained	p.Q1447*		0.2471
+TCGA-4T-AA8H-01A	chr5	112838415	112838415	APC	G	T		stop_gained	p.E941*		0.2403	TCGA-4T-AA8H-01A	chr5	112840059	112840060	APC	-	TA		frameshift_variant	p.H1490Yfs*18		0.4839
+TCGA-AA-3968-01A	chr5	112838415	112838415	APC	G	T		stop_gained	p.E941*		0.4762	TCGA-AA-3968-01A	chr5	112839909	112839909	APC	C	-		frameshift_variant	p.P1439Lfs*34		0.3333
+TCGA-AA-3688-01A	chr5	112838415	112838415	APC	G	T		stop_gained	p.E941*		0.7464
+TCGA-A6-6142-01A	chr5	112838420	112838420	APC	T	-		frameshift_variant	p.S943Qfs*12		0.3256	TCGA-A6-6142-01A	chr5	112839810	112839810	APC	C	T		stop_gained	p.Q1406*		0.2121
+TCGA-A6-2671-01A	chr5	112838420	112838420	APC	T	-		frameshift_variant	p.S943Qfs*12		0.2258	TCGA-A6-2671-01A	chr5	112839896	112839917	APC	CAGAAGTAAAACACCTCCACCA	-		frameshift_variant	p.R1435Lfs*31		0.3762
+TCGA-AA-3930-01A	chr5	112838483	112838483	APC	T	-		frameshift_variant	p.L964*		0.4444
+TCGA-AA-3685-01A	chr5	112838526	112838526	APC	C	T		stop_gained	p.Q978*		0.2437	TCGA-AA-3685-01A	chr5	112839702	112839702	APC	A	T		stop_gained	p.K1370*		0.4342
+TCGA-A6-2682-01A	chr5	112838569	112838570	APC	-	T		frameshift_variant	p.K993*		0.1778
+TCGA-CK-4948-01B	chr5	112838769	112838769	APC	G	T		stop_gained	p.E1059*		0.1991
+TCGA-D5-6538-01A	chr5	112838934	112838934	APC	C	T		stop_gained	p.R1114*		0.5315	TCGA-D5-6538-01A	chr5	112839875	112839876	APC	-	GG		frameshift_variant	p.Q1429Dfs*45		0.4184
+TCGA-D5-6932-01A	chr5	112838934	112838934	APC	C	T		stop_gained	p.R1114*		0.6515
+TCGA-CM-5863-01A	chr5	112838934	112838934	APC	C	T		stop_gained	p.R1114*		0.2405	TCGA-CM-5863-01A	chr5	112840059	112840059	APC	T	-		frameshift_variant	p.L1489Yfs*18		0.26
+TCGA-G4-6320-01A	chr5	112838934	112838934	APC	C	T		stop_gained	p.R1114*		0.4077	TCGA-G4-6320-01A	chr5	112839899	112839899	APC	A	-		frameshift_variant	p.S1436Vfs*37		0.3684
+TCGA-G4-6307-01A	chr5	112838934	112838934	APC	C	T		stop_gained	p.R1114*		0.4873
+TCGA-AZ-4308-01A	chr5	112839035	112839035	APC	C	G		stop_gained	p.Y1147*		0.3065
+TCGA-AA-3680-01A	chr5	112839082	112839082	APC	G	-		frameshift_variant	p.S1163Tfs*2		0.4069	TCGA-AA-3680-01A	chr5	112840312	112840312	APC	A	-		frameshift_variant	p.I1574Yfs*2		0.3611
+TCGA-QG-A5Z1-01A	chr5	112839096	112839096	APC	G	T		stop_gained	p.E1168*		0.5
+TCGA-AD-6899-01A	chr5	112839163	112839163	APC	C	-		frameshift_variant	p.S1190Yfs*75		0.4667
+TCGA-AD-6963-01A	chr5	112839171	112839171	APC	C	T		stop_gained	p.Q1193*		0.4043
+TCGA-DM-A0XF-01A	chr5	112839219	112839219	APC	G	T		stop_gained	p.E1209*		0.3478
+TCGA-D5-5538-01A	chr5	112839240	112839240	APC	G	T		stop_gained	p.E1216*		0.4222	TCGA-D5-5538-01A	chr5	112839999	112839999	APC	C	T		stop_gained	p.Q1469*		0.2403
+TCGA-AA-A017-01A	chr5	112839324	112839324	APC	C	T		stop_gained	p.Q1244*		0.6396
+TCGA-F4-6459-01A	chr5	112839340	112839340	APC	G	-		frameshift_variant	p.C1249Sfs*16		0.5935
+TCGA-AZ-5407-01A	chr5	112839444	112839444	APC	G	T		stop_gained	p.E1284*		0.3364	TCGA-AZ-5407-01A	chr5	112840182	112840182	APC	G	T		stop_gained	p.E1530*		0.3676
+TCGA-G4-6298-01A	chr5	112839452	112839453	APC	-	AT		frameshift_variant	p.G1288*		0.5765
+TCGA-AD-6548-01A	chr5	112839465	112839465	APC	C	T		stop_gained	p.Q1291*		0.5
+TCGA-G4-6317-01A	chr5	112839465	112839465	APC	C	T		stop_gained	p.Q1291*		0.26
+TCGA-D5-6924-01A	chr5	112839474	112839474	APC	C	T		stop_gained	p.Q1294*		0.243
+TCGA-AA-3509-01A	chr5	112839474	112839474	APC	C	T		stop_gained	p.Q1294*		0.7579
+TCGA-AA-3693-01A	chr5	112839478	112839478	APC	A	-		frameshift_variant	p.A1296Qfs*9		0.8832
+TCGA-AA-3494-01A	chr5	112839519	112839519	APC	G	T		stop_gained	p.E1309*		0.766
+TCGA-A6-6648-01A	chr5	112839524	112839524	APC	G	-		frameshift_variant	p.I1311Lfs*10		0.4533
+TCGA-AA-3678-01A	chr5	112839526	112839527	APC	TT	-		frameshift_variant	p.I1311Rfs*3		0.4553
+TCGA-DM-A1D6-01A	chr5	112839538	112839538	APC	C	G		stop_gained	p.S1315*		0.8837
+TCGA-CK-6748-01A	chr5	112839538	112839538	APC	C	A		stop_gained	p.S1315*		0.8584
+TCGA-AA-3986-01A	chr5	112839547	112839548	APC	-	TC		frameshift_variant	p.P1319Lfs*3		0.2667
+TCGA-G4-6310-01A	chr5	112839558	112839558	APC	G	T		stop_gained	p.E1322*		0.599
+TCGA-G4-6625-01A	chr5	112839574	112839574	APC	C	G		stop_gained	p.S1327*		0.3506
+TCGA-AA-3511-01A	chr5	112839604	112839605	APC	TG	-		frameshift_variant	p.L1337Pfs*4		0.8163	TCGA-AA-3511-01A	chr5	112842240	112842240	APC	C	T		missense_variant	p.P2216S		0.1522
+TCGA-F4-6808-01A	chr5	112839627	112839627	APC	G	T		stop_gained	p.E1345*		0.5455
+TCGA-AA-3662-01A	chr5	112839644	112839645	APC	-	G		frameshift_variant	p.A1351Gfs*3		0.8067
+TCGA-AA-3858-01A	chr5	112839649	112839649	APC	T	-		frameshift_variant	p.E1353Nfs*62		0.5034
+TCGA-AA-3666-01A	chr5	112839654	112839654	APC	T	-		frameshift_variant	p.S1355Lfs*60		0.5292
+TCGA-A6-6654-01A	chr5	112839693	112839693	APC	C	T		stop_gained	p.Q1367*		0.1333
+TCGA-D5-6898-01A	chr5	112839693	112839693	APC	C	T		stop_gained	p.Q1367*		0.6981
+TCGA-AA-3851-01A	chr5	112839701	112839701	APC	C	A		synonymous_variant	p.P1369P		0.6279	TCGA-AA-3851-01A	chr5	112839942	112839942	APC	C	T		stop_gained	p.R1450*		0.7143
+TCGA-CM-5344-01A	chr5	112839702	112839702	APC	A	T		stop_gained	p.K1370*		0.5882
+TCGA-AD-A5EK-01A	chr5	112839714	112839714	APC	G	T		stop_gained	p.E1374*		0.8889
+TCGA-G4-6303-01A	chr5	112839726	112839726	APC	C	T		stop_gained	p.Q1378*		0.854
+TCGA-A6-5667-01A	chr5	112839726	112839726	APC	C	T		stop_gained	p.Q1378*		0.7553
+TCGA-F4-6460-01A	chr5	112839726	112839726	APC	C	T		stop_gained	p.Q1378*		0.6622
+TCGA-AA-3846-01A	chr5	112839726	112839726	APC	C	T		stop_gained	p.Q1378*		0.699
+TCGA-AA-3955-01A	chr5	112839741	112839742	APC	-	T		frameshift_variant	p.M1383Ifs*3		0.6421
+TCGA-AA-3489-01A	chr5	112839769	112839769	APC	C	A		stop_gained	p.S1392*		0.38
+TCGA-AD-6901-01A	chr5	112839783	112839783	APC	G	T		stop_gained	p.E1397*		0.5843
+TCGA-A6-6138-01A	chr5	112839783	112839783	APC	G	T		stop_gained	p.E1397*		0.5723
+TCGA-CM-5864-01A	chr5	112839783	112839783	APC	G	T		stop_gained	p.E1397*		0.8768
+TCGA-A6-A56B-01A	chr5	112839784	112839784	APC	A	-		frameshift_variant	p.E1397Gfs*18		0.7609
+TCGA-AA-3854-01A	chr5	112839787	112839787	APC	G	-		frameshift_variant	p.S1398Ifs*17		0.8617
+TCGA-CM-6165-01A	chr5	112839796	112839796	APC	T	-		frameshift_variant	p.I1401Mfs*14		0.73
+TCGA-A6-3807-01A	chr5	112839799	112839818	APC	CCAGCTCCGTTCAGAGTGAA	-		frameshift_variant	p.S1403Mfs*13		0.05369
+TCGA-DM-A1D0-01A	chr5	112839816	112839816	APC	G	T		stop_gained	p.E1408*		0.8521
+TCGA-AA-3502-01A	chr5	112839834	112839834	APC	G	T		missense_variant	p.V1414L		0.3099	TCGA-AA-3502-01A	chr5	112839835	112839835	APC	T	G		missense_variant	p.V1414G		0.3194
+TCGA-A6-2679-01A	chr5	112839839	112839840	APC	-	G		frameshift_variant	p.I1417Hfs*6		0.5278
+TCGA-D5-6536-01A	chr5	112839844	112839845	APC	-	TA		frameshift_variant	p.S1419*		0.3276
+TCGA-A6-5656-01A	chr5	112839908	112839908	APC	A	-		frameshift_variant	p.P1439Lfs*34		0.3429
+TCGA-AA-3872-01A	chr5	112839908	112839908	APC	A	-		frameshift_variant	p.P1439Lfs*34		0.6765
+TCGA-AA-3655-01A	chr5	112839924	112839924	APC	C	T		stop_gained	p.Q1444*		0.6279
+TCGA-AY-A71X-01A	chr5	112839931	112839937	APC	CTCAAAC	-		frameshift_variant	p.Q1447Sfs*24		0.7708
+TCGA-D5-6535-01A	chr5	112839942	112839942	APC	C	T		stop_gained	p.R1450*		0.5189
+TCGA-D5-5539-01A	chr5	112839942	112839942	APC	C	T		stop_gained	p.R1450*		0.506
+TCGA-D5-7000-01A	chr5	112839942	112839942	APC	C	T		stop_gained	p.R1450*		0.6767
+TCGA-DM-A28H-01A	chr5	112839942	112839942	APC	C	T		stop_gained	p.R1450*		0.4429
+TCGA-CM-6167-01A	chr5	112839942	112839942	APC	C	T		stop_gained	p.R1450*		0.2358
+TCGA-AA-A01Z-01A	chr5	112839952	112839953	APC	-	TT		frameshift_variant	p.K1454Lfs*20		0.8099
+TCGA-AA-3530-01A	chr5	112839999	112839999	APC	C	T		stop_gained	p.Q1469*		0.7794
+TCGA-CM-4744-01A	chr5	112840023	112840023	APC	C	T		stop_gained	p.Q1477*		0.573
+TCGA-5M-AAT4-01A	chr5	112840049	112840049	APC	T	-		frameshift_variant	p.D1486Ifs*21		0.6739
+TCGA-NH-A6GC-01A	chr5	112840049	112840049	APC	T	-		frameshift_variant	p.D1486Ifs*21		0.84
+TCGA-AA-3967-01A	chr5	112840059	112840060	APC	-	TAAA		frameshift_variant	p.H1490Nfs*25		0.2143
+TCGA-F4-6463-01A	chr5	112840063	112840064	APC	-	T		frameshift_variant	p.A1492Cfs*22		0.188
+TCGA-D5-5541-01A	chr5	112840068	112840068	APC	G	-		frameshift_variant	p.A1492Pfs*15		0.6897
+TCGA-D5-6531-01A	chr5	112840073	112840073	APC	G	-		frameshift_variant	p.E1494Kfs*13		0.8364	TCGA-D5-6531-01A	chr5	112840074	112840074	APC	G	A		missense_variant	p.E1494K		0.8407
+TCGA-AY-6197-01A	chr5	112840091	112840092	APC	-	T		frameshift_variant	p.S1501Ffs*13		0.5	TCGA-AY-6197-01A	chr5	112840707	112840707	APC	A	C		missense_variant	p.T1705P		0.2344
+TCGA-AA-3811-01A	chr5	112840189	112840189	APC	A	G		missense_variant	p.D1532G		0.1594
+TCGA-DM-A28K-01A	chr5	112840254	112840255	APC	-	A		frameshift_variant	p.T1556Nfs*3		0.75
+TCGA-NH-A50U-01A	chr5	112840254	112840255	APC	-	A		frameshift_variant	p.T1556Nfs*3		0.7556
+TCGA-DM-A1D9-01A	chr5	112840323	112840324	APC	-	A		frameshift_variant	p.C1578Mfs*13		0.675
+TCGA-CM-6677-01A	chr5	112840330	112840333	APC	TTAT	-		frameshift_variant	p.I1580Lfs*69		0.5882
+TCGA-F4-6854-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-D5-6539-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3844-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-4N-A93T-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-NH-A50V-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-2674-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CA-5796-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-DM-A282-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-F4-6703-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3842-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3989-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AZ-4313-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AZ-6599-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3672-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-2685-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-DM-A28G-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-2680-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3867-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AZ-5403-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3875-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AZ-4323-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-6650-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3488-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3941-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-5348-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3496-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-6651-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AZ-6607-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AY-4070-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-5862-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CK-5916-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CA-6719-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-6675-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-A565-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3819-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3831-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3845-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3870-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-A004-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AZ-4684-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CA-5254-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CA-5256-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CK-5913-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-4743-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-6161-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-D5-6530-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-F4-6704-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-2670-01A											
+TCGA-A6-2671-11A											
+TCGA-A6-2672-01A											
+TCGA-A6-2672-11A											
+TCGA-A6-2674-01B											
+TCGA-A6-2674-11A											
+TCGA-A6-2675-11A											
+TCGA-A6-2676-01A											
+TCGA-A6-2676-11A											
+TCGA-A6-2677-01B											
+TCGA-A6-2677-11A											
+TCGA-A6-2678-01A											
+TCGA-A6-2678-11A											
+TCGA-A6-2679-11A											
+TCGA-A6-2680-11A											
+TCGA-A6-2681-11A											
+TCGA-A6-2682-11A											
+TCGA-A6-2683-01A											
+TCGA-A6-2683-11A											
+TCGA-A6-2684-01C											
+TCGA-A6-2684-11A											
+TCGA-A6-2685-11A											
+TCGA-A6-2686-11A											
+TCGA-A6-3807-11A											
+TCGA-A6-3808-11A											
+TCGA-A6-3809-01B											
+TCGA-A6-3809-11A											
+TCGA-A6-3810-01B											
+TCGA-A6-3810-11A											
+TCGA-A6-4107-11A											
+TCGA-A6-5656-01B											
+TCGA-A6-5657-11A											
+TCGA-A6-5659-01B											
+TCGA-A6-5659-11A											
+TCGA-A6-5660-11A											
+TCGA-A6-5661-01B											
+TCGA-A6-5661-11A											
+TCGA-A6-5662-01A											
+TCGA-A6-5662-11A											
+TCGA-A6-5665-01B											
+TCGA-A6-5665-11A											
+TCGA-A6-5666-11A											
+TCGA-A6-5667-11A											
+TCGA-A6-6140-01A											
+TCGA-A6-6141-01A											
+TCGA-A6-6650-01B											
+TCGA-A6-6780-01B											
+TCGA-A6-6781-01B											
+TCGA-A6-A5ZU-01A											
+TCGA-AA-3488-11A											
+TCGA-AA-3489-11A											
+TCGA-AA-3492-11A											
+TCGA-AA-3494-11A											
+TCGA-AA-3495-11A											
+TCGA-AA-3496-11A											
+TCGA-AA-3502-11A											
+TCGA-AA-3506-11A											
+TCGA-AA-3509-11A											
+TCGA-AA-3510-11A											
+TCGA-AA-3511-11A											
+TCGA-AA-3514-01A											
+TCGA-AA-3514-11A											
+TCGA-AA-3516-01A											
+TCGA-AA-3516-11A											
+TCGA-AA-3517-01A											
+TCGA-AA-3517-11A											
+TCGA-AA-3518-01A											
+TCGA-AA-3518-11A											
+TCGA-AA-3519-01A											
+TCGA-AA-3519-11A											
+TCGA-AA-3520-01A											
+TCGA-AA-3520-11A											
+TCGA-AA-3521-01A											
+TCGA-AA-3521-11A											
+TCGA-AA-3522-01A											
+TCGA-AA-3522-11A											
+TCGA-AA-3524-01A											
+TCGA-AA-3524-11A											
+TCGA-AA-3525-01A											
+TCGA-AA-3525-11A											
+TCGA-AA-3526-01A											
+TCGA-AA-3526-11A											
+TCGA-AA-3527-01A											
+TCGA-AA-3527-11A											
+TCGA-AA-3529-01A											
+TCGA-AA-3529-11A											
+TCGA-AA-3530-11A											
+TCGA-AA-3531-01A											
+TCGA-AA-3531-11A											
+TCGA-AA-3532-01A											
+TCGA-AA-3532-11A											
+TCGA-AA-3534-01A											
+TCGA-AA-3534-11A											
+TCGA-AA-3538-01A											
+TCGA-AA-3542-01A											
+TCGA-AA-3543-01A											
+TCGA-AA-3544-01A											
+TCGA-AA-3548-01A											
+TCGA-AA-3549-01A											
+TCGA-AA-3552-01A											
+TCGA-AA-3553-01A											
+TCGA-AA-3554-01A											
+TCGA-AA-3555-01A											
+TCGA-AA-3556-01A											
+TCGA-AA-3558-01A											
+TCGA-AA-3560-01A											
+TCGA-AA-3561-01A											
+TCGA-AA-3562-01A											
+TCGA-AA-3655-11A											
+TCGA-AA-3660-11A											
+TCGA-AA-3662-11A											
+TCGA-AA-3663-11A											
+TCGA-AA-3697-11A											
+TCGA-AA-3710-01A											
+TCGA-AA-3712-11A											
+TCGA-AA-3713-11A											
+TCGA-AA-3970-01A											
+TCGA-AA-A00A-01A											
+TCGA-AA-A00D-01A											
+TCGA-AA-A00E-01A											
+TCGA-AA-A00F-01A											
+TCGA-AA-A00J-01A											
+TCGA-AA-A00K-01A											
+TCGA-AA-A00L-01A											
+TCGA-AA-A00O-01A											
+TCGA-AA-A00Q-01A											
+TCGA-AA-A00R-01A											
+TCGA-AA-A00U-01A											
+TCGA-AA-A00W-01A											
+TCGA-AA-A00Z-01A											
+TCGA-AA-A01D-01A											
+TCGA-AA-A01F-01A											
+TCGA-AA-A01G-01A											
+TCGA-AA-A01K-01A											
+TCGA-AA-A01P-11A											
+TCGA-AA-A01Q-01A											
+TCGA-AA-A01R-11A											
+TCGA-AA-A01S-11A											
+TCGA-AA-A01T-11A											
+TCGA-AA-A01V-11A											
+TCGA-AA-A01X-11A											
+TCGA-AA-A01Z-11A											
+TCGA-AA-A022-11A											
+TCGA-AA-A029-01A											
+TCGA-AA-A02J-01A											
+TCGA-AA-A02O-11A											
+TCGA-AA-A03F-11A											
+TCGA-AA-A03J-11A											
+TCGA-AZ-6598-11A											
+TCGA-AZ-6599-11A											
+TCGA-AZ-6600-11A											
+TCGA-AZ-6601-11A											
+TCGA-AZ-6603-11A											
+TCGA-AZ-6605-11A											
+TCGA-AZ-6606-11A											
+TCGA-AZ-6607-11A											
+TCGA-AZ-6608-11A											
+TCGA-D5-6923-01A											
+TCGA-F4-6704-11A											
+TCGA-G4-6295-11A											
+TCGA-G4-6297-11A											
+TCGA-G4-6298-11A											
+TCGA-G4-6302-11A											
+TCGA-G4-6311-11A											
+TCGA-G4-6314-11A											
+TCGA-G4-6317-02A											
+TCGA-G4-6320-11A											
+TCGA-G4-6322-11A											
+TCGA-G4-6625-11A											
+TCGA-NH-A50V-01B											
+TCGA-NH-A6GC-06A											
+TCGA-NH-A8F7-06A											

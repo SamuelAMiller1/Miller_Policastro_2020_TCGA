@@ -1,0 +1,572 @@
+sample	chr	start	end	gene	reference	alt	altGene	effect	aminoAcid	rnaVaf	dnaVaf
+TCGA-AA-3973-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AZ-4614-01A	chr17	7675085	7675085	TP53	C	T		missense_variant	p.C176Y		0.7463
+TCGA-CA-6718-01A	chr17	7674894	7674894	TP53	G	A		stop_gained	p.R213*		0.2895	TCGA-CA-6718-01A	chr17	7676088	7676088	TP53	G	T		stop_gained	p.S94*		0.2073
+TCGA-CK-5916-01A	chr17	7673704	7673704	TP53	G	A		stop_gained	p.R306*		0.3615
+TCGA-AY-6386-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AZ-6598-01A	chr17	7674276	7674277	TP53	AC	-		frameshift_variant	p.C229Yfs*10		0.3197
+TCGA-AA-3984-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3811-01A	chr17	7675080	7675080	TP53	G	-		frameshift_variant	p.H178Tfs*69		0.678
+TCGA-AZ-4315-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-DM-A1D4-01A	chr17	7674220	7674220	TP53	C	T		missense_variant	p.R248Q		0.6774
+TCGA-F4-6855-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3496-01A	chr17	7674276	7674277	TP53	AC	-		frameshift_variant	p.C229Yfs*10		0.5882
+TCGA-DM-A28K-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-G4-6309-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CK-4950-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-G4-6628-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3864-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-6165-01A	chr17	7673534	7673534	TP53	C	A		splice_donor_variant	p.X331_splice		0.328
+TCGA-A6-5664-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CA-5796-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-DM-A285-01A	chr17	7673534	7673534	TP53	C	T		splice_donor_variant	p.X331_splice		0.5294
+TCGA-NH-A5IV-01A	chr17	7676606	7676606	TP53	G	A		5_prime_UTR_variant			0.1167
+TCGA-CM-6680-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-D5-6532-01A	chr17	7675088	7675088	TP53	C	T		missense_variant	p.R175H		0.5455
+TCGA-F4-6805-01A	chr17	7674221	7674221	TP53	G	A		missense_variant	p.R248W		0.4412
+TCGA-D5-5538-01A	chr17	7674890	7674890	TP53	T	C		missense_variant	p.H214R		0.4925
+TCGA-AD-6899-01A	chr17	7673776	7673776	TP53	G	A		missense_variant	p.R282W		0.6296
+TCGA-A6-A565-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3692-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CA-6717-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-6171-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-D5-7000-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-G4-6322-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-DM-A1D8-01A	chr17	7675088	7675088	TP53	C	T		missense_variant	p.R175H		0.8125
+TCGA-CM-6170-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-2682-01A	chr17	7675084	7675084	TP53	G	C		missense_variant	p.C176W		0.1818
+TCGA-F4-6569-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-A02E-01A	chr17	7675218	7675218	TP53	T	C		missense_variant	p.K132E		0.6545
+TCGA-AZ-4616-01A	chr17	7674243	7674243	TP53	A	C		missense_variant	p.S240R		0.3659
+TCGA-CM-5868-01A	chr17	7673776	7673776	TP53	G	A		missense_variant	p.R282W		0.6338
+TCGA-AA-3666-01A	chr17	7676043	7676043	TP53	A	C		missense_variant	p.F109C		0.7987
+TCGA-G4-6304-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-DM-A1D9-01A	chr17	7675088	7675088	TP53	C	T		missense_variant	p.R175H		0.6176
+TCGA-AA-3530-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-D5-6920-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CA-5255-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-DM-A28H-01A	chr17	7675088	7675088	TP53	C	T		missense_variant	p.R175H		0.8077
+TCGA-AA-3862-01A	chr17	7675088	7675088	TP53	C	T		missense_variant	p.R175H		0.6162
+TCGA-QG-A5YX-01A	chr17	7674257	7674257	TP53	A	G		missense_variant	p.Y236H		0.6667
+TCGA-AA-3939-01A	chr17	7688541	7688541	WRAP53	C	T		5_prime_UTR_variant			0.5
+TCGA-G4-6302-01A	chr17	7673820	7673820	TP53	C	T		missense_variant	p.R267Q		0.1008	TCGA-G4-6302-01A	chr17	7676611	7676611	TP53	G	A		5_prime_UTR_variant			0.08125
+TCGA-AA-3492-01A	chr17	7673718	7673718	TP53	G	-		frameshift_variant	p.P301Qfs*44		0.5	TCGA-AA-3492-01A	chr17	7676604	7676604	TP53	C	A		5_prime_UTR_variant			0.1071
+TCGA-AA-3867-01A	chr17	7676398	7676398	TP53	G	-		frameshift_variant	p.P27Lfs*17		0.6092
+TCGA-AA-3858-01A	chr17	7676264	7676265	TP53	-	A		frameshift_variant	p.L35Ffs*8		0.6419
+TCGA-A6-A56B-01A	chr17	7676257	7676257	TP53	G	-		frameshift_variant	p.Q38Kfs*6		0.5556
+TCGA-AA-3860-01A	chr17	7673763	7673781	TP53	TCCTCTGTGCGCCGGTCTC	-		frameshift_variant	p.R280Kfs*59		0.4094	TCGA-AA-3860-01A	chr17	7676190	7676190	TP53	G	-		frameshift_variant	p.P60Qfs*63		0.3817
+TCGA-A6-2686-01A	chr17	7676153	7676153	TP53	G	-		frameshift_variant	p.V73Wfs*50		0.7838
+TCGA-AZ-5403-01A	chr17	7675052	7675052	TP53	C	T		splice_donor_variant	p.X187_splice		0.3878	TCGA-AZ-5403-01A	chr17	7676133	7676133	TP53	G	A		missense_variant	p.A79V		0.4324
+TCGA-CM-5860-01A	chr17	7676097	7676097	TP53	C	T		stop_gained	p.W91*		0.5957
+TCGA-CM-6172-01A	chr17	7674220	7674220	TP53	C	T		missense_variant	p.R248Q		0.1721	TCGA-CM-6172-01A	chr17	7676071	7676071	TP53	G	A		stop_gained	p.Q100*		0.5962
+TCGA-AA-A02H-01A	chr17	7676031	7676031	TP53	A	C		missense_variant	p.F113C		0.6923
+TCGA-AA-3693-01A	chr17	7675999	7675999	TP53	A	C		missense_variant	p.C124G		0.8438
+TCGA-AA-A01C-01A	chr17	7675999	7675999	TP53	A	-		frameshift_variant	p.C124Afs*46		0.5147
+TCGA-AA-3673-01A	chr17	7675994	7675994	TP53	C	T		splice_region_variant;synonymous_variant	p.T125T		0.534
+TCGA-AZ-6601-01A	chr17	7675088	7675088	TP53	C	T		missense_variant	p.R175H		0.2468	TCGA-AZ-6601-01A	chr17	7675994	7675994	TP53	C	A		splice_region_variant;synonymous_variant	p.T125T		0.2317
+TCGA-5M-AATE-01A	chr17	7675233	7675233	TP53	A	T		missense_variant	p.S127T		0.6842
+TCGA-CA-5797-01A	chr17	7675232	7675232	TP53	G	A		missense_variant	p.S127F		0.75
+TCGA-AA-3875-01A	chr17	7675224	7675224	TP53	G	A		missense_variant	p.L130F		0.2857
+TCGA-AA-3977-01A	chr17	7675217	7675217	TP53	T	G		missense_variant	p.K132T		0.2449
+TCGA-F4-6809-01A	chr17	7675217	7675217	TP53	T	C		missense_variant	p.K132R		0.3704
+TCGA-AA-A03J-01A	chr17	7675216	7675216	TP53	C	G		missense_variant	p.K132N		0.4286
+TCGA-AZ-6603-01A	chr17	7675216	7675216	TP53	C	A		missense_variant	p.K132N		0.4706
+TCGA-DM-A288-01A	chr17	7675214	7675214	TP53	A	C		missense_variant	p.M133R		0.7083
+TCGA-CK-4948-01B	chr17	7675208	7675208	TP53	C	T		missense_variant	p.C135Y		0.64
+TCGA-AA-3814-01A	chr17	7675190	7675190	TP53	C	G		missense_variant	p.C141S		0.375
+TCGA-AA-3982-01A	chr17	7675190	7675190	TP53	C	T		missense_variant	p.C141Y		0.3934
+TCGA-G4-6297-01A	chr17	7675185	7675185	TP53	C	T		missense_variant	p.V143M		0.3542
+TCGA-A6-2681-01A	chr17	7675178	7675178	TP53	A	C		missense_variant	p.L145R		0.7857
+TCGA-NH-A6GB-01A	chr17	7675176	7675177	TP53	-	CAGCTG		inframe_insertion	p.Q144_L145dup		0.5556
+TCGA-G4-6295-01A	chr17	7675153	7675160	TP53	GGGCGGGG	-		frameshift_variant	p.P151Rfs*27		0.4595
+TCGA-AZ-6608-01A	chr17	7675156	7675157	TP53	-	G		frameshift_variant	p.P153Afs*28		0.625
+TCGA-AZ-6605-01A	chr17	7675148	7675148	TP53	G	A		missense_variant	p.T155I		0.28
+TCGA-A6-5656-01A	chr17	7675143	7675143	TP53	C	A		missense_variant	p.V157F		0.76
+TCGA-AA-3815-01A	chr17	7675139	7675139	TP53	C	T		missense_variant	p.R158H		0.32
+TCGA-CM-5341-01A	chr17	7674220	7674220	TP53	C	T		missense_variant	p.R248Q		0.4737	TCGA-CM-5341-01A	chr17	7675139	7675139	TP53	C	T		missense_variant	p.R158H		0.6129
+TCGA-AA-A017-01A	chr17	7675137	7675137	TP53	C	G		missense_variant	p.A159P		0.6667
+TCGA-CM-5864-01A	chr17	7673820	7673820	TP53	C	A		missense_variant	p.R267L		0.2564	TCGA-CM-5864-01A	chr17	7675137	7675137	TP53	C	G		missense_variant	p.A159P		0.4894
+TCGA-F4-6807-01A	chr17	7675137	7675137	TP53	C	G		missense_variant	p.A159P		0.4615
+TCGA-A6-6652-01A	chr17	7675131	7675131	TP53	C	T		missense_variant	p.A161T		0.7857
+TCGA-AZ-4323-01A	chr17	7675127	7675127	TP53	A	T		missense_variant	p.I162N		0.3714
+TCGA-D5-6924-01A	chr17	7675124	7675124	TP53	T	C		missense_variant	p.Y163C		0.8286
+TCGA-A6-2684-01A	chr17	7675095	7675095	TP53	C	A		missense_variant	p.V173L		0.4355
+TCGA-AA-3956-01A	chr17	7675095	7675095	TP53	C	T		missense_variant	p.V173M		0.3
+TCGA-AD-A5EK-01A	chr17	7675095	7675095	TP53	C	A		missense_variant	p.V173L		0.7051
+TCGA-A6-6142-01A	chr17	7675089	7675089	TP53	G	A		missense_variant	p.R175C		0.3019
+TCGA-AA-A010-01A	chr17	7675089	7675089	TP53	G	A		missense_variant	p.R175C		0.3738
+TCGA-WS-AB45-01A	chr17	7675089	7675089	TP53	G	A		missense_variant	p.R175C		0.096
+TCGA-A6-6650-01A	chr17	7675088	7675088	TP53	C	T		missense_variant	p.R175H		0.8571
+TCGA-AA-3488-01A	chr17	7675088	7675088	TP53	C	T		missense_variant	p.R175H		0.8471
+TCGA-AA-3851-01A	chr17	7675088	7675088	TP53	C	T		missense_variant	p.R175H		0.6607
+TCGA-AA-3968-01A	chr17	7675088	7675088	TP53	C	T		missense_variant	p.R175H		0.859
+TCGA-AA-A01T-01A	chr17	7675088	7675088	TP53	C	T		missense_variant	p.R175H		0.806
+TCGA-AA-A02F-01A	chr17	7675088	7675088	TP53	C	T		missense_variant	p.R175H		0.8125
+TCGA-AY-6197-01A	chr17	7675088	7675088	TP53	C	T		missense_variant	p.R175H		0.4184
+TCGA-AZ-4681-01A	chr17	7675088	7675088	TP53	C	T		missense_variant	p.R175H		0.7568
+TCGA-AZ-5407-01A	chr17	7675088	7675088	TP53	C	T		missense_variant	p.R175H		0.2078
+TCGA-AZ-6606-01A	chr17	7675088	7675088	TP53	C	T		missense_variant	p.R175H		0.7667
+TCGA-D5-5540-01A	chr17	7675088	7675088	TP53	C	T		missense_variant	p.R175H		0.8085
+TCGA-D5-6541-01A	chr17	7675088	7675088	TP53	C	T		missense_variant	p.R175H		0.4211
+TCGA-F4-6854-01A	chr17	7673776	7673776	TP53	G	A		missense_variant	p.R282W		0.4643	TCGA-F4-6854-01A	chr17	7675088	7675088	TP53	C	T		missense_variant	p.R175H		0.4333
+TCGA-G4-6298-01A	chr17	7675088	7675088	TP53	C	T		missense_variant	p.R175H		0.4697
+TCGA-G4-6306-01A	chr17	7675088	7675088	TP53	C	T		missense_variant	p.R175H		0.6596
+TCGA-G4-6310-01A	chr17	7675088	7675088	TP53	C	T		missense_variant	p.R175H		0.507
+TCGA-G4-6626-01A	chr17	7675088	7675088	TP53	C	T		missense_variant	p.R175H		0.6286
+TCGA-QG-A5YV-01A	chr17	7675088	7675088	TP53	C	T		missense_variant	p.R175H		0.6168
+TCGA-AA-3662-01A	chr17	7675085	7675085	TP53	C	T		missense_variant	p.C176Y		0.55
+TCGA-SS-A7HO-01A	chr17	7675085	7675085	TP53	C	A		missense_variant	p.C176F		0.8596
+TCGA-AA-3866-01A	chr17	7675084	7675084	TP53	G	T		stop_gained	p.C176*		0.5385
+TCGA-A6-5660-01A	chr17	7675066	7675083	TP53	GCAGCGCTCATGGTGGGG	-		inframe_deletion	p.P177_C182del		0.9355
+TCGA-AA-3941-01A	chr17	7675064	7675081	TP53	GAGCAGCGCTCATGGTGG	-		inframe_deletion	p.H178_S183del		0.8804
+TCGA-A6-4105-01A	chr17	7675076	7675076	TP53	T	C		missense_variant	p.H179R		0.6081
+TCGA-D5-6931-01A	chr17	7675070	7675070	TP53	C	T		missense_variant	p.R181H		0.5385
+TCGA-D5-6539-01A	chr17	7674890	7674890	TP53	T	C		missense_variant	p.H214R		0.07407	TCGA-D5-6539-01A	chr17	7675051	7675051	TP53	A	G		splice_donor_variant	p.X187_splice		0.2027
+TCGA-DM-A1DA-01A	chr17	7674962	7674962	TP53	G	A		missense_variant	p.P190L		0.8947
+TCGA-AA-3848-01A	chr17	7674947	7674948	TP53	-	T		frameshift_variant	p.I195Nfs*14		0.8065
+TCGA-AA-A02W-01A	chr17	7674945	7674945	TP53	G	A		stop_gained	p.R196*		0.7386
+TCGA-G4-6299-01A	chr17	7674945	7674945	TP53	G	A		stop_gained	p.R196*		0.6058
+TCGA-NH-A50U-01A	chr17	7674945	7674945	TP53	G	A		stop_gained	p.R196*		0.8302
+TCGA-A6-2675-01A	chr17	7674939	7674939	TP53	C	A		stop_gained	p.E198*		0.3692
+TCGA-CM-6679-01A	chr17	7674938	7674939	TP53	-	C		frameshift_variant	p.E198Gfs*11		0.4348
+TCGA-AD-6901-01A	chr17	7674935	7674935	TP53	C	A		missense_variant	p.G199V		0.52
+TCGA-AA-3685-01A	chr17	7674917	7674917	TP53	T	C		missense_variant	p.Y205C		0.5229
+TCGA-CM-5348-01A	chr17	7674917	7674917	TP53	T	C		missense_variant	p.Y205C		0.5
+TCGA-A6-6782-01A	chr17	7674899	7674899	TP53	G	A		missense_variant	p.T211I		0.5246
+TCGA-D5-6898-01A	chr17	7674899	7674899	TP53	G	A		missense_variant	p.T211I		0.5714
+TCGA-A6-2685-01A	chr17	7674894	7674894	TP53	G	A		stop_gained	p.R213*		0.3077
+TCGA-AA-3980-01A	chr17	7674894	7674894	TP53	G	A		stop_gained	p.R213*		0.6087
+TCGA-AD-6965-01A	chr17	7674894	7674894	TP53	G	A		stop_gained	p.R213*		0.825
+TCGA-AY-5543-01A	chr17	7674894	7674894	TP53	G	A		stop_gained	p.R213*		0.5706
+TCGA-AY-A8YK-01A	chr17	7674894	7674894	TP53	G	A		stop_gained	p.R213*		0.6319
+TCGA-G4-6303-01A	chr17	7674894	7674894	TP53	G	A		stop_gained	p.R213*		0.7263
+TCGA-G4-6314-01A	chr17	7674894	7674894	TP53	G	A		stop_gained	p.R213*		0.582
+TCGA-G4-6586-01A	chr17	7674894	7674894	TP53	G	A		stop_gained	p.R213*		0.1314
+TCGA-CA-6715-01A	chr17	7674893	7674893	TP53	C	T		missense_variant	p.R213Q		0.8235
+TCGA-D5-6922-01A	chr17	7674893	7674893	TP53	C	A		missense_variant	p.R213L		0.5802
+TCGA-5M-AAT5-01A	chr17	7674887	7674887	TP53	C	T		missense_variant	p.S215N		0.6957
+TCGA-AD-6548-01A	chr17	7674884	7674884	TP53	A	C		missense_variant	p.V216G		0.4091
+TCGA-DM-A28F-01A	chr17	7674872	7674872	TP53	T	C		missense_variant	p.Y220C		0.6545
+TCGA-G4-6625-01A	chr17	7674872	7674872	TP53	T	C		missense_variant	p.Y220C		0.3922
+TCGA-DM-A0XD-01A	chr17	7674859	7674859	TP53	C	G		missense_variant;splice_region_variant	p.E224D		0.5323
+TCGA-AA-3971-01A	chr17	7674858	7674858	TP53	C	T		splice_donor_variant	p.X224_splice		0.3261
+TCGA-AD-6963-01A	chr17	7674268	7674268	TP53	A	C		missense_variant	p.I232S		0.3881
+TCGA-AA-3688-01A	chr17	7674263	7674263	TP53	A	G		missense_variant	p.Y234H		0.7429
+TCGA-AD-6888-01A	chr17	7674256	7674256	TP53	T	C		missense_variant	p.Y236C		0.6415
+TCGA-A6-3807-01A	chr17	7674255	7674255	TP53	G	C		stop_gained	p.Y236*		0.5018
+TCGA-AY-4071-01A	chr17	7674252	7674252	TP53	C	A		missense_variant	p.M237I		0.7
+TCGA-AZ-4308-01A	chr17	7674252	7674252	TP53	C	T		missense_variant	p.M237I		0.7222
+TCGA-CM-4750-01A	chr17	7674247	7674247	TP53	T	C		missense_variant	p.N239S		0.7013
+TCGA-AY-A54L-01A	chr17	7674240	7674240	TP53	G	-		frameshift_variant	p.C242Afs*5		0.5412
+TCGA-AA-3681-01A	chr17	7674232	7674232	TP53	C	T		missense_variant	p.G244D		0.2703
+TCGA-AA-3511-01A	chr17	7674230	7674230	TP53	C	T		missense_variant	p.G245S		0.6
+TCGA-D5-6538-01A	chr17	7674230	7674230	TP53	C	T		missense_variant	p.G245S		0.8627
+TCGA-G4-6320-01A	chr17	7674230	7674230	TP53	C	T		missense_variant	p.G245S		0.1348
+TCGA-T9-A92H-01A	chr17	7674230	7674230	TP53	C	T		missense_variant	p.G245S		0.8354
+TCGA-A6-3810-01A	chr17	7674221	7674221	TP53	G	A		missense_variant	p.R248W		0.6894
+TCGA-AA-3679-01A	chr17	7674221	7674221	TP53	G	A		missense_variant	p.R248W		0.5833
+TCGA-AA-3979-01A	chr17	7674221	7674221	TP53	G	A		missense_variant	p.R248W		0.8065
+TCGA-CM-6676-01A	chr17	7674221	7674221	TP53	G	A		missense_variant	p.R248W		0.5942
+TCGA-D5-6533-01A	chr17	7674221	7674221	TP53	G	A		missense_variant	p.R248W		0.5689
+TCGA-DM-A1HA-01A	chr17	7674221	7674221	TP53	G	A		missense_variant	p.R248W		0.8718
+TCGA-G4-6315-01A	chr17	7674221	7674221	TP53	G	A		missense_variant	p.R248W		0.3964
+TCGA-A6-5667-01A	chr17	7674220	7674220	TP53	C	T		missense_variant	p.R248Q		0.7143
+TCGA-A6-6651-01A	chr17	7674220	7674220	TP53	C	T		missense_variant	p.R248Q		0.4255
+TCGA-CK-5914-01A	chr17	7674220	7674220	TP53	C	T		missense_variant	p.R248Q		0.6747
+TCGA-CM-4746-01A	chr17	7674220	7674220	TP53	C	T		missense_variant	p.R248Q		0.9315
+TCGA-DM-A1D7-01A	chr17	7674220	7674220	TP53	C	T		missense_variant	p.R248Q		0.58
+TCGA-DM-A1DB-01A	chr17	7674220	7674220	TP53	C	T		missense_variant	p.R248Q		0.6863
+TCGA-F4-6459-01A	chr17	7674220	7674220	TP53	C	T		missense_variant	p.R248Q		0.5586
+TCGA-G4-6317-01A	chr17	7674220	7674220	TP53	C	T		missense_variant	p.R248Q		0.7449
+TCGA-G4-6307-01A	chr17	7674188	7674188	TP53	C	A		missense_variant	p.D259Y		0.7731
+TCGA-AZ-6600-01A	chr17	7674187	7674187	TP53	T	A		missense_variant	p.D259V		0.5385
+TCGA-AA-3976-01A	chr17	7673824	7673824	TP53	C	A		stop_gained	p.G266*		0.8226
+TCGA-CM-4751-01A	chr17	7673823	7673823	TP53	C	T		missense_variant	p.G266E		0.3333
+TCGA-CM-4752-01A	chr17	7673823	7673823	TP53	C	A		missense_variant	p.G266V		0.4478
+TCGA-CM-6164-01A	chr17	7673823	7673823	TP53	C	A		missense_variant	p.G266V		0.3878
+TCGA-CM-6167-01A	chr17	7673821	7673821	TP53	G	A		missense_variant	p.R267W		0.2857
+TCGA-QG-A5Z1-01A	chr17	7673809	7673809	TP53	C	A		stop_gained	p.E271*		0.6429
+TCGA-A6-6137-01A	chr17	7673806	7673806	TP53	C	A		missense_variant	p.V272L		0.55
+TCGA-AZ-6607-01A	chr17	7673806	7673806	TP53	C	T		missense_variant	p.V272M		0.5217
+TCGA-5M-AAT4-01A	chr17	7673803	7673803	TP53	G	A		missense_variant	p.R273C		0.7041
+TCGA-A6-6138-01A	chr17	7673803	7673803	TP53	G	A		missense_variant	p.R273C		0.5208
+TCGA-AA-3844-01A	chr17	7673803	7673803	TP53	G	A		missense_variant	p.R273C		0.8765
+TCGA-AA-A02K-01A	chr17	7673803	7673803	TP53	G	A		missense_variant	p.R273C		0.4569
+TCGA-AM-5821-01A	chr17	7673803	7673803	TP53	G	A		missense_variant	p.R273C		0.1972
+TCGA-AY-4070-01A	chr17	7673803	7673803	TP53	G	A		missense_variant	p.R273C		0.1204
+TCGA-D5-6540-01A	chr17	7673803	7673803	TP53	G	A		missense_variant	p.R273C		0.3766
+TCGA-RU-A8FL-01A	chr17	7673803	7673803	TP53	G	A		missense_variant	p.R273C		0.7576
+TCGA-4N-A93T-01A	chr17	7673802	7673802	TP53	C	T		missense_variant	p.R273H		0.6923
+TCGA-A6-A567-01A	chr17	7673802	7673802	TP53	C	T		missense_variant	p.R273H		0.6056
+TCGA-AA-3655-01A	chr17	7673802	7673802	TP53	C	T		missense_variant	p.R273H		0.6765
+TCGA-AA-3660-01A	chr17	7673802	7673802	TP53	C	T		missense_variant	p.R273H		0.5789
+TCGA-AA-3949-01A	chr17	7673802	7673802	TP53	C	T		missense_variant	p.R273H		0.2611
+TCGA-AY-6196-01A	chr17	7673802	7673802	TP53	C	T		missense_variant	p.R273H		0.4679
+TCGA-CM-6163-01A	chr17	7673802	7673802	TP53	C	T		missense_variant	p.R273H		0.3235
+TCGA-D5-5541-01A	chr17	7673802	7673802	TP53	C	T		missense_variant	p.R273H		0.7451
+TCGA-D5-6531-01A	chr17	7673802	7673802	TP53	C	T		missense_variant	p.R273H		0.6897
+TCGA-D5-6926-01A	chr17	7673802	7673802	TP53	C	T		missense_variant	p.R273H		0.6111
+TCGA-NH-A50V-01A	chr17	7673802	7673802	TP53	C	T		missense_variant	p.R273H		0.5
+TCGA-NH-A8F8-01A	chr17	7673802	7673802	TP53	C	T		missense_variant	p.R273H		0.4419
+TCGA-A6-6649-01A	chr17	7673799	7673799	TP53	A	T		missense_variant	p.V274D		0.3864
+TCGA-AA-3975-01A	chr17	7673796	7673796	TP53	C	T		missense_variant	p.C275Y		0.6543
+TCGA-D5-6932-01A	chr17	7673796	7673796	TP53	C	T		missense_variant	p.C275Y		0.5789
+TCGA-AA-3712-01A	chr17	7673788	7673788	TP53	G	C		missense_variant	p.P278A		0.7241
+TCGA-AA-A01S-01A	chr17	7673787	7673787	TP53	G	C		missense_variant	p.P278R		0.798
+TCGA-AA-3667-01A	chr17	7673776	7673776	TP53	G	A		missense_variant	p.R282W		0.6567
+TCGA-AA-3967-01A	chr17	7673776	7673776	TP53	G	A		missense_variant	p.R282W		0.6667
+TCGA-CM-5862-01A	chr17	7673776	7673776	TP53	G	A		missense_variant	p.R282W		0.8442
+TCGA-CM-6677-01A	chr17	7673776	7673776	TP53	G	A		missense_variant	p.R282W		0.7959
+TCGA-D5-6535-01A	chr17	7673776	7673776	TP53	G	A		missense_variant	p.R282W		0.5682
+TCGA-G4-6294-01A	chr17	7673776	7673776	TP53	G	A		missense_variant	p.R282W		0.8182
+TCGA-NH-A6GC-01A	chr17	7673776	7673776	TP53	G	A		missense_variant	p.R282W		0.7925
+TCGA-QL-A97D-01A	chr17	7673776	7673776	TP53	G	A		missense_variant	p.R282W		0.5323
+TCGA-A6-6654-01A	chr17	7673767	7673767	TP53	C	A		stop_gained	p.E285*		0.3548
+TCGA-DM-A28E-01A	chr17	7673767	7673767	TP53	C	T		missense_variant	p.E285K		0.875
+TCGA-AA-3841-01A	chr17	7673764	7673764	TP53	C	T		missense_variant	p.E286K		0.5625
+TCGA-NH-A8F7-01A	chr17	7673759	7673764	TP53	CTCTTC	-		inframe_deletion	p.E286_E287del		0.8222
+TCGA-AA-3955-01A	chr17	7673747	7673753	TP53	CTTGCGG	-		frameshift_variant	p.R290Kfs*53		0.6194
+TCGA-AD-A5EJ-01A	chr17	7673717	7673718	TP53	-	G		frameshift_variant	p.G302Rfs*4		0.1277
+TCGA-CM-6169-01A	chr17	7673704	7673704	TP53	G	A		stop_gained	p.R306*		0.6104
+TCGA-F4-6856-01A	chr17	7673704	7673704	TP53	G	A		stop_gained	p.R306*		0.4074
+TCGA-DM-A1D0-01A	chr17	7673699	7673699	TP53	A	C		splice_donor_variant	p.X307_splice		0.7692
+TCGA-AA-3856-01A	chr17	7673563	7673563	TP53	G	-		frameshift_variant	p.P322Hfs*23		0.5326
+TCGA-AA-A01Z-01A	chr17	7673537	7673538	TP53	-	A		frameshift_variant	p.Q331Sfs*6		0.6584
+TCGA-CA-6719-01A	chr17	7673534	7673534	TP53	C	A		splice_donor_variant	p.X331_splice		0.65
+TCGA-QG-A5YW-01A	chr17	7670716	7670716	TP53	C	T		splice_acceptor_variant	p.X332_splice		0.5946
+TCGA-CK-4951-01A	chr17	7670712	7670712	TP53	G	A		missense_variant	p.R333C		0.2
+TCGA-AA-3842-01A	chr17	7670705	7670705	TP53	C	-		frameshift_variant	p.R335Lfs*10		0.7429
+TCGA-G4-6311-01A	chr17	7670704	7670704	TP53	A	-		frameshift_variant	p.E336Sfs*9		0.1529
+TCGA-F4-6460-01A	chr17	7670700	7670700	TP53	G	A		missense_variant	p.R337C		0.5588
+TCGA-D5-6929-01A	chr17	7670699	7670699	TP53	C	A		missense_variant	p.R337L		0.5405
+TCGA-AA-3877-01A	chr17	7670692	7670692	TP53	C	T		synonymous_variant	p.E339E		0.2143
+TCGA-CM-6675-01A	chr17	7670685	7670685	TP53	G	A		stop_gained	p.R342*		0.75
+TCGA-F4-6808-01A	chr17	7670685	7670685	TP53	G	A		stop_gained	p.R342*		0.5217
+TCGA-AD-6889-01A	chr17	7669464	7669464	TP53	C	-		3_prime_UTR_variant			0.4
+TCGA-3L-AA1B-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-4T-AA8H-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-5M-AAT6-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-5M-AATA-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-2671-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-2672-01B	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-2674-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-2677-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-2679-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-2680-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-3808-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-3809-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-4107-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-5657-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-5659-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-5661-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-5665-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-5666-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-6648-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-6653-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-6780-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-6781-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-A566-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3489-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3494-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3495-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3502-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3506-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3509-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3510-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3663-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3664-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3672-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3675-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3678-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3680-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3684-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3695-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3696-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3697-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3713-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3715-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3812-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3818-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3819-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3821-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3831-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3833-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3837-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3845-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3846-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3850-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3852-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3854-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3855-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3861-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3869-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3870-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3872-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3930-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3947-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3950-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3952-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3966-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3972-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3986-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3989-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-3994-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-A004-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-A00N-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-A01I-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-A01P-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-A01R-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-A01V-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-A01X-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-A022-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-A024-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-A02O-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-A02R-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-A02Y-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AA-A03F-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AD-5900-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AD-6890-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AD-6895-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AD-6964-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AM-5820-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AU-3779-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AU-6004-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AY-A69D-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AY-A71X-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AZ-4313-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AZ-4615-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AZ-4682-01B	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AZ-4684-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-AZ-6599-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CA-5254-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CA-5256-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CA-6716-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CK-4947-01B	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CK-4952-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CK-5912-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CK-5913-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CK-5915-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CK-6746-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CK-6747-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CK-6748-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CK-6751-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-4743-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-4744-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-4747-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-4748-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-5344-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-5349-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-5861-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-5863-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-6161-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-6162-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-6166-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-6168-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-6674-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-CM-6678-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-D5-5537-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-D5-5539-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-D5-6529-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-D5-6530-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-D5-6534-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-D5-6536-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-D5-6537-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-D5-6927-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-D5-6928-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-D5-6930-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-DM-A0X9-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-DM-A0XF-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-DM-A1D6-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-DM-A1HB-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-DM-A280-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-DM-A282-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-DM-A28A-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-DM-A28C-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-DM-A28G-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-DM-A28M-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-F4-6461-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-F4-6463-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-F4-6570-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-F4-6703-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-F4-6704-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-F4-6806-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-G4-6293-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-G4-6321-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-G4-6323-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-G4-6588-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-G4-6627-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-NH-A50T-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-NH-A6GA-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-QG-A5Z2-01A	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant	no variant
+TCGA-A6-2670-01A											
+TCGA-A6-2671-11A											
+TCGA-A6-2672-01A											
+TCGA-A6-2672-11A											
+TCGA-A6-2674-01B											
+TCGA-A6-2674-11A											
+TCGA-A6-2675-11A											
+TCGA-A6-2676-01A											
+TCGA-A6-2676-11A											
+TCGA-A6-2677-01B											
+TCGA-A6-2677-11A											
+TCGA-A6-2678-01A											
+TCGA-A6-2678-11A											
+TCGA-A6-2679-11A											
+TCGA-A6-2680-11A											
+TCGA-A6-2681-11A											
+TCGA-A6-2682-11A											
+TCGA-A6-2683-01A											
+TCGA-A6-2683-11A											
+TCGA-A6-2684-01C											
+TCGA-A6-2684-11A											
+TCGA-A6-2685-11A											
+TCGA-A6-2686-11A											
+TCGA-A6-3807-11A											
+TCGA-A6-3808-11A											
+TCGA-A6-3809-01B											
+TCGA-A6-3809-11A											
+TCGA-A6-3810-01B											
+TCGA-A6-3810-11A											
+TCGA-A6-4107-11A											
+TCGA-A6-5656-01B											
+TCGA-A6-5657-11A											
+TCGA-A6-5659-01B											
+TCGA-A6-5659-11A											
+TCGA-A6-5660-11A											
+TCGA-A6-5661-01B											
+TCGA-A6-5661-11A											
+TCGA-A6-5662-01A											
+TCGA-A6-5662-11A											
+TCGA-A6-5665-01B											
+TCGA-A6-5665-11A											
+TCGA-A6-5666-11A											
+TCGA-A6-5667-11A											
+TCGA-A6-6140-01A											
+TCGA-A6-6141-01A											
+TCGA-A6-6650-01B											
+TCGA-A6-6780-01B											
+TCGA-A6-6781-01B											
+TCGA-A6-A5ZU-01A											
+TCGA-AA-3488-11A											
+TCGA-AA-3489-11A											
+TCGA-AA-3492-11A											
+TCGA-AA-3494-11A											
+TCGA-AA-3495-11A											
+TCGA-AA-3496-11A											
+TCGA-AA-3502-11A											
+TCGA-AA-3506-11A											
+TCGA-AA-3509-11A											
+TCGA-AA-3510-11A											
+TCGA-AA-3511-11A											
+TCGA-AA-3514-01A											
+TCGA-AA-3514-11A											
+TCGA-AA-3516-01A											
+TCGA-AA-3516-11A											
+TCGA-AA-3517-01A											
+TCGA-AA-3517-11A											
+TCGA-AA-3518-01A											
+TCGA-AA-3518-11A											
+TCGA-AA-3519-01A											
+TCGA-AA-3519-11A											
+TCGA-AA-3520-01A											
+TCGA-AA-3520-11A											
+TCGA-AA-3521-01A											
+TCGA-AA-3521-11A											
+TCGA-AA-3522-01A											
+TCGA-AA-3522-11A											
+TCGA-AA-3524-01A											
+TCGA-AA-3524-11A											
+TCGA-AA-3525-01A											
+TCGA-AA-3525-11A											
+TCGA-AA-3526-01A											
+TCGA-AA-3526-11A											
+TCGA-AA-3527-01A											
+TCGA-AA-3527-11A											
+TCGA-AA-3529-01A											
+TCGA-AA-3529-11A											
+TCGA-AA-3530-11A											
+TCGA-AA-3531-01A											
+TCGA-AA-3531-11A											
+TCGA-AA-3532-01A											
+TCGA-AA-3532-11A											
+TCGA-AA-3534-01A											
+TCGA-AA-3534-11A											
+TCGA-AA-3538-01A											
+TCGA-AA-3542-01A											
+TCGA-AA-3543-01A											
+TCGA-AA-3544-01A											
+TCGA-AA-3548-01A											
+TCGA-AA-3549-01A											
+TCGA-AA-3552-01A											
+TCGA-AA-3553-01A											
+TCGA-AA-3554-01A											
+TCGA-AA-3555-01A											
+TCGA-AA-3556-01A											
+TCGA-AA-3558-01A											
+TCGA-AA-3560-01A											
+TCGA-AA-3561-01A											
+TCGA-AA-3562-01A											
+TCGA-AA-3655-11A											
+TCGA-AA-3660-11A											
+TCGA-AA-3662-11A											
+TCGA-AA-3663-11A											
+TCGA-AA-3697-11A											
+TCGA-AA-3710-01A											
+TCGA-AA-3712-11A											
+TCGA-AA-3713-11A											
+TCGA-AA-3970-01A											
+TCGA-AA-A00A-01A											
+TCGA-AA-A00D-01A											
+TCGA-AA-A00E-01A											
+TCGA-AA-A00F-01A											
+TCGA-AA-A00J-01A											
+TCGA-AA-A00K-01A											
+TCGA-AA-A00L-01A											
+TCGA-AA-A00O-01A											
+TCGA-AA-A00Q-01A											
+TCGA-AA-A00R-01A											
+TCGA-AA-A00U-01A											
+TCGA-AA-A00W-01A											
+TCGA-AA-A00Z-01A											
+TCGA-AA-A01D-01A											
+TCGA-AA-A01F-01A											
+TCGA-AA-A01G-01A											
+TCGA-AA-A01K-01A											
+TCGA-AA-A01P-11A											
+TCGA-AA-A01Q-01A											
+TCGA-AA-A01R-11A											
+TCGA-AA-A01S-11A											
+TCGA-AA-A01T-11A											
+TCGA-AA-A01V-11A											
+TCGA-AA-A01X-11A											
+TCGA-AA-A01Z-11A											
+TCGA-AA-A022-11A											
+TCGA-AA-A029-01A											
+TCGA-AA-A02J-01A											
+TCGA-AA-A02O-11A											
+TCGA-AA-A03F-11A											
+TCGA-AA-A03J-11A											
+TCGA-AZ-6598-11A											
+TCGA-AZ-6599-11A											
+TCGA-AZ-6600-11A											
+TCGA-AZ-6601-11A											
+TCGA-AZ-6603-11A											
+TCGA-AZ-6605-11A											
+TCGA-AZ-6606-11A											
+TCGA-AZ-6607-11A											
+TCGA-AZ-6608-11A											
+TCGA-D5-6923-01A											
+TCGA-F4-6704-11A											
+TCGA-G4-6295-11A											
+TCGA-G4-6297-11A											
+TCGA-G4-6298-11A											
+TCGA-G4-6302-11A											
+TCGA-G4-6311-11A											
+TCGA-G4-6314-11A											
+TCGA-G4-6317-02A											
+TCGA-G4-6320-11A											
+TCGA-G4-6322-11A											
+TCGA-G4-6625-11A											
+TCGA-NH-A50V-01B											
+TCGA-NH-A6GC-06A											
+TCGA-NH-A8F7-06A											
